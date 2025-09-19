@@ -1,0 +1,40 @@
+{
+  "protocol_type": "exercise",
+  "title": "Exercise & Recovery",
+  "interventions": [
+    {
+      "name": "Strength training",
+      "number": 1,
+      "action": "START",
+      "scientific_rationale": "Strength training directly improves lipid biomarkers (LDL, total cholesterol, Apo B) by increasing muscle mass and enhancing metabolic health, which helps lower cardiovascular risk. It also supports hormone optimization by promoting healthy testosterone and progesterone levels, and can increase ferritin and MCHC through improved red blood cell production. For women in their 40s, strength training is especially important for maintaining bone density, supporting longevity, and improving sleep and energy, all of which are crucial for preventive health and post-pregnancy recovery.\n\n| Field | Details |\n|-------|------|\n| Ranking | 1 |\n| Description | Strength training involves performing exercises that use resistance—such as bodyweight movements, resistance bands, or weights—to challenge and strengthen major muscle groups throughout the body, including the arms, shoulders, back, and core. These exercises are typically performed in sets and repetitions, focusing on controlled movements to build muscle and improve overall strength. |\n| Benefit Summary | Boosts energy, supports hormone balance, and improves cholesterol profile. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    },
+    {
+      "name": "Zone 2 Cardio (LISS)",
+      "number": 2,
+      "action": "START",
+      "scientific_rationale": "Zone 2 Cardio directly improves lipid biomarkers by lowering LDL cholesterol, ApoB, and total cholesterol, while increasing HDL and LDL particle size. It also reduces homocysteine, ferritin, and prolactin, and supports hormone balance (SHBG). These benefits arise from enhanced fat metabolism, improved insulin sensitivity, and cardiovascular conditioning—especially important for women in their 40s seeking preventive health, hormone optimization, and sustained energy.\n\n| Field | Details |\n|-------|------|\n| Ranking | 2 |\n| Description | Zone 2 Cardio, also known as low-intensity steady-state (LISS) aerobic exercise, involves sustained activities like brisk walking, light jogging, or cycling at a pace where you can still hold a conversation. This form of exercise primarily engages the legs and core while efficiently training the cardiovascular system. |\n| Benefit Summary | Boosts heart health and optimizes cholesterol for longevity. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    },
+    {
+      "name": "Yoga",
+      "number": 3,
+      "action": "START",
+      "scientific_rationale": "Yoga has been shown to reduce total cholesterol and improve glycemic control, directly benefiting out-of-range biomarkers such as total cholesterol and HbA1c. Its stress-reducing effects help regulate hormones like leptin and prolactin, while gentle movement supports cardiovascular health and sleep quality. For women in their 40s, yoga is especially valuable for hormone optimization, energy, and longevity, offering low-impact benefits that complement postpartum recovery and preventive health goals.\n\n| Field | Details |\n|-------|------|\n| Ranking | 3 |\n| Description | Yoga is a mind-body practice that combines gentle physical postures, stretching, controlled breathing, and mindfulness. It engages the full body, with a focus on flexibility, balance, and core strength, while also activating the glutes and supporting overall mobility. |\n| Benefit Summary | Boosts flexibility, lowers cholesterol, and supports hormone balance. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    }
+  ],
+  "total_interventions": 3
+}

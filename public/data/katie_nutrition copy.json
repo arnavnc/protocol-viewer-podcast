@@ -1,0 +1,67 @@
+{
+  "protocol_type": "nutrition",
+  "title": "Nutrition",
+  "interventions": [
+    {
+      "name": "Uncategorized Foods",
+      "number": 1,
+      "action": "START",
+      "scientific_rationale": "This diverse group of foods provides key nutrients to address your current biomarker needs. Beans, lentils, and soy-based foods supply plant protein and iron, supporting healthy hemoglobin and energy levels, while also helping to lower LDL cholesterol and Apo B. Fatty fish like mackerel and sardines are rich in omega-3s, which can improve LDL particle size and reduce inflammation. Nuts, seeds, and olive oil offer healthy fats and antioxidants that support hormone balance and cardiovascular health. Colorful fruits and vegetables like cranberries, apples, broccoli, and cabbage provide fiber and phytonutrients that help regulate cholesterol, support immune defenses, and maintain gut and urinary tract health. Together, these foods create a foundation for balanced hormones, improved blood markers, and sustained energy.\n\n| Field | Details |\n|-------|------|\n| Ranking | 2 |\n| Description | Aim to include a variety of beans, lentils, whole grains, nuts, seeds, and colorful vegetables in your meals each day. Start your morning with Greek yogurt and fruit, enjoy a bean or lentil-based salad or stir fry for lunch, and add fish like mackerel or sardines to dinner 1-2 times per week. Rotate potatoes, yams, and whole grains like quinoa and brown rice as your main carbohydrate sources, and use olive oil for cooking or dressings. |\n| Benefit Summary | Support heart, hormone, and energy health with nutrient-rich whole foods. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1
+    },
+    {
+      "name": "Urinary Health & Bacteria Reduction",
+      "number": 2,
+      "action": "START",
+      "scientific_rationale": "Whole cranberries and bearberries contain compounds like proanthocyanidins and arbutin, which prevent bacteria from attaching to the urinary tract lining, reducing infection risk. Oranges and peaches provide vitamin C and hydration, which support immune defenses and help dilute urine, making it less hospitable to bacteria. Live culture yogurt introduces beneficial probiotics that help maintain healthy urinary and vaginal flora, further lowering bacterial overgrowth. Garlic offers natural antimicrobial properties, while nettle leaves act as a gentle diuretic, increasing urine flow and helping flush out bacteria, all of which can help lower squamous epithelial cells and reduce UTI risk, especially important after recent childbirth.\n\n| Field | Details |\n|-------|------|\n| Ranking | 5 |\n| Description | Aim to include at least one urinary health-supporting food or beverage at each meal. Start your day with a glass of water and a serving of fruit like oranges or peaches, add live culture yogurt as a snack or breakfast option, and incorporate garlic or nettle leaves into lunch or dinner recipes. Drink water consistently throughout the day to help flush your urinary tract. |\n| Benefit Summary | Lower urinary bacteria to reduce UTIs and support bladder health. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1
+    },
+    {
+      "name": "Iron & Red Blood Cell Enhancement",
+      "number": 3,
+      "action": "START",
+      "scientific_rationale": "Combining heme iron sources like chicken thigh and salmon with vitamin C-rich foods such as gold kiwifruit and guava helps increase your ferritin and MCHC levels by improving both iron intake and absorption. Vitamin C from kiwifruit, guava, and lemon-dressed spinach salad converts plant-based (non-heme) iron from mung beans and spinach into a more absorbable form, directly supporting red blood cell production. Heme iron from chicken and salmon is efficiently absorbed and helps replenish iron stores, which is especially important for women with heavier menstrual bleeding. These foods work together to optimize oxygen transport, energy levels, and hormone function by supporting healthy hemoglobin and red blood cell indices.\n\n| Field | Details |\n|-------|------|\n| Ranking | 6 |\n| Description | Aim to include at least one iron-rich food at each meal. Start your day with vitamin C-rich fruits like gold kiwifruit or guava to enhance iron absorption, add chicken thigh or salmon to lunch or dinner for heme iron, and enjoy a lemon-dressed spinach salad or mung beans as a side or in salads. Pair plant-based iron sources with vitamin C foods to maximize absorption and aim for variety throughout the week. |\n| Benefit Summary | Boosts iron and red blood cells to support your energy and hormone balance. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1
+    },
+    {
+      "name": "Hormone & Energy Regulation",
+      "number": 4,
+      "action": "START",
+      "scientific_rationale": "Leafy greens like kale, spinach, and Swiss chard are rich in fiber and phytonutrients that help regulate estrogen and progesterone by promoting healthy SHBG levels and supporting liver detoxification of hormones. Cruciferous vegetables such as Brussels sprouts and arugula provide compounds like indole-3-carbinol, which aid in hormone metabolism and may lower excess estrogen activity. Soy foods (tofu, tempeh, edamame, unsweetened soy milk) contain phytoestrogens that gently balance hormone fluctuations, especially after pregnancy, and help stabilize leptin and prolactin. Berries and cucumbers are low-calorie, high-antioxidant foods that support energy metabolism and help manage cholesterol, while also providing vitamin C to support iron absorption and blood health.\n\n| Field | Details |\n|-------|------|\n| Ranking | 6 |\n| Description | Aim to include at least one leafy green and one soy-based food in your meals each day—add spinach or kale to breakfast smoothies, enjoy a tofu or edamame salad at lunch, and fill half your dinner plate with steamed Brussels sprouts or Swiss chard. Snack on berries or cucumbers for fiber and antioxidants, and rotate different greens and berries throughout the week to maximize nutrient variety. Try to have at least 2 servings of leafy greens and 1 serving of soy foods daily for optimal hormone support. |\n| Benefit Summary | Supports hormone balance and energy for better mood and vitality. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1
+    },
+    {
+      "name": "Cholesterol & Lipid Improvement",
+      "number": 5,
+      "action": "START",
+      "scientific_rationale": "Soluble fiber from oats, barley, beans, and psyllium husk binds cholesterol in your gut, reducing its absorption and lowering LDL cholesterol and ApoB levels. Chia seeds and walnuts provide omega-3 fatty acids, which help decrease small, dense LDL particles and inflammation. Almonds and extra virgin olive oil are rich in monounsaturated fats and plant sterols, which replace saturated fats and further lower LDL and non-HDL cholesterol. Avocado offers both fiber and healthy fats, supporting improved lipid profiles and reducing cardiovascular risk. These foods together target multiple cholesterol markers, helping to lower LDL particle number, small LDL, and ApoB, which are key drivers of heart disease risk.\n\n| Field | Details |\n|-------|------|\n| Ranking | 10 |\n| Description | Aim to include at least one cholesterol-lowering food at every meal. Start your day with oats or barley as a base for breakfast, add beans or black beans to salads or soups at lunch, and use chia seeds or psyllium husk in smoothies or yogurt snacks. Snack on a small handful of almonds or walnuts, and use extra virgin olive oil and avocado as healthy fat sources in your cooking or as toppings. |\n| Benefit Summary | Lowers LDL and ApoB to protect your heart and blood vessels. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1
+    },
+    {
+      "name": "Avoid Cholesterol Raising & Inflammatory Foods",
+      "number": 6,
+      "action": "AVOID",
+      "scientific_rationale": "Foods high in saturated fats (like butter, fatty beef, and processed meats) and trans fats (such as margarine and shortening) raise LDL cholesterol, increase ApoB, and promote the formation of small, dense LDL particles, all of which drive cardiovascular risk. Added sugars and refined grains (found in soda, candy, pastries, and white bread) spike blood sugar and insulin, fueling inflammation and worsening lipid profiles. Processed and fried foods often contain both unhealthy fats and sugars, amplifying their negative impact on cholesterol, leptin, and inflammatory markers. By avoiding these foods, you help lower LDL particle number, reduce inflammation, and support healthier hormone and iron status, directly addressing your out-of-range biomarkers.\n\n| Field | Details |\n|-------|------|\n| Ranking | 999 |\n| Description | Limit foods high in saturated fat, trans fat, and added sugar by choosing home-cooked meals over processed or fast foods. Swap out butter, fatty meats, and packaged snacks for lean proteins, whole grains, and fresh produce. Read labels to avoid hidden sources of unhealthy fats and sugars, and aim to prepare most meals at home to stay in control of your ingredients. |\n| Benefit Summary | Lowering these foods protects your heart, hormones, and long-term health. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1
+    }
+  ],
+  "total_interventions": 6
+}

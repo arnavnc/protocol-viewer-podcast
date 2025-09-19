@@ -1,0 +1,284 @@
+{
+  "protocol_type": "supplements",
+  "title": "Supplementation",
+  "interventions": [
+    {
+      "name": "Omega-3 fatty acids",
+      "number": 1,
+      "action": "CONTINUE",
+      "scientific_rationale": "Omega-3 fatty acids are well-established for supporting cardiovascular health, improving lipid profiles, and reducing systemic inflammation through modulation of cell membrane composition and anti-inflammatory eicosanoid production. Given your below-range LDL size and HDL large particle counts, maintaining optimal omega-3 intake may help improve lipid particle quality and support long-term cardiovascular resilience. Clinical evidence also supports their role in foundational health and preventive care, aligning with your preventive health goals. Your consistent heavy strength training and systemic recovery needs further benefit from omega-3's anti-inflammatory effects.",
+      "details": [
+        {
+          "Field": "Ranking",
+          "Details": "1"
+        },
+        {
+          "Field": "Description",
+          "Details": "Omega-3 fatty acids are essential fats found in fish oil and certain plant oils, known for supporting heart, brain, and joint health while helping to reduce inflammation throughout the body."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Supports cardiovascular health and optimizes lipid particle quality."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "Type",
+          "Value": "SUPPLEMENT"
+        },
+        {
+          "Field": "Suggested Use",
+          "Value": "EPA + DHA (250-500 mg) – daily"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "LDL Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Small",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Neutrophils",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "HDL Large",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Monocytes",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Leptin",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Triglycerides",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Apolipoprotein B (Apo B)",
+          "Status": "NORMAL"
+        }
+      ],
+      "ranking": 1
+    },
+    {
+      "name": "Vitamin D3 + K2",
+      "number": 2,
+      "action": "CONTINUE",
+      "scientific_rationale": "Maintaining optimal vitamin D levels is crucial for immune function, bone mineralization, and cellular health, all of which are foundational to preventive health care. Co-supplementation with vitamin K2 supports proper calcium metabolism, promoting vascular integrity and bone strength by directing calcium to bones and away from arteries. This combination is especially important for sustaining your current optimal vitamin D status and supporting long-term cardiovascular and skeletal health. Your stable, quality sleep and consistent training increase long-term skeletal demands, further supporting D3 + K2 use.",
+      "details": [
+        {
+          "Field": "Ranking",
+          "Details": "2"
+        },
+        {
+          "Field": "Description",
+          "Details": "Vitamin D3 + K2 is a supplement that combines vitamin D3, which supports immune and bone health, with vitamin K2, which helps regulate calcium use in the body for healthy bones and arteries."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Supports immune, bone, and vascular health for preventive care."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "Type",
+          "Value": "SUPPLEMENT"
+        },
+        {
+          "Field": "Suggested Use",
+          "Value": "Vitamin D3 (1000-4000 IU) + Vitamin K2 (100-200 mcg) – daily"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "Testosterone, Free",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Calcium",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Neutrophils",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Thyroid-Stimulating Hormone (TSH)",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Albumin (Microalbumin) - Urine",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Testosterone, Total",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Ferritin",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Red Cell Distribution Width (RDW)",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Homocysteine",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Eosinophils",
+          "Status": "OPTIMAL"
+        }
+      ],
+      "ranking": 2
+    },
+    {
+      "name": "Choline",
+      "number": 3,
+      "action": "START",
+      "scientific_rationale": "Choline is an essential nutrient that supports liver function, lipid metabolism, and cognitive health. Given your active lifestyle and biomarker profile—including higher-end AST and suboptimal lipid particle sizes—choline supplementation may help optimize liver enzyme balance and promote healthy lipid transport. Evidence also suggests choline plays a key role in supporting neuroplasticity and cognitive performance, aligning with your preventive health goals. Your high training volume and sustained caloric expenditure increase demand for efficient liver and lipid metabolism, justifying choline's elevated importance.",
+      "details": [
+        {
+          "Field": "Ranking",
+          "Details": "3"
+        },
+        {
+          "Field": "Description",
+          "Details": "Choline is a vital nutrient involved in liver health, brain function, and fat metabolism. It helps maintain cell membrane integrity and supports neurotransmitter synthesis."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Supports liver health and cognitive performance for preventive care."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "Type",
+          "Value": "SUPPLEMENT"
+        },
+        {
+          "Field": "Suggested Use",
+          "Value": "Choline (425-550 mg) – daily"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "Homocysteine",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Triglycerides",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Alanine Transaminase (ALT)",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "GGT",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Total Cholesterol",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "HDL Cholesterol",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Aspartate Transaminase (AST)",
+          "Status": "NORMAL"
+        }
+      ],
+      "ranking": 3
+    },
+    {
+      "name": "Vitamin B1",
+      "number": 4,
+      "action": "START",
+      "scientific_rationale": "Given your above-reference creatinine levels and high physical activity, Vitamin B1 (thiamine) is lightly recommended to support metabolic flexibility and efficient energy production. Thiamine is a critical cofactor in carbohydrate metabolism and mitochondrial function, and evidence suggests it may help maintain healthy kidney function and optimize cellular energy pathways, especially in individuals with increased metabolic demands. Your high training load and above-range creatinine directly link to energy metabolism needs.",
+      "details": [
+        {
+          "Field": "Ranking",
+          "Details": "4"
+        },
+        {
+          "Field": "Description",
+          "Details": "Vitamin B1, also known as thiamine, is a water-soluble vitamin essential for converting carbohydrates into energy and supporting nervous system health."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Supports energy metabolism and kidney health for active lifestyles."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "Type",
+          "Value": "SUPPLEMENT"
+        },
+        {
+          "Field": "Suggested Use",
+          "Value": "Vitamin B1 (50-250 mg) – daily"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "Creatinine",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Glucose",
+          "Status": "OPTIMAL"
+        }
+      ],
+      "ranking": 4
+    },
+    {
+      "name": "Diindolylmethane",
+      "number": 5,
+      "action": "START",
+      "scientific_rationale": "Your estradiol levels are slightly above the optimal range, and diindolylmethane (DIM) has been shown to support healthy estrogen metabolism by promoting the conversion of estradiol to less potent metabolites. Clinical studies indicate that DIM can help modulate estrogen balance, which may further optimize your hormonal profile and support preventive health, even in the absence of overt hormonal imbalance.",
+      "details": [
+        {
+          "Field": "Ranking",
+          "Details": "5"
+        },
+        {
+          "Field": "Description",
+          "Details": "Diindolylmethane (DIM) is a compound found in cruciferous vegetables like broccoli and Brussels sprouts. It is commonly used to support healthy hormone metabolism, particularly estrogen balance."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Supports healthy estrogen metabolism for optimal hormonal balance."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "Type",
+          "Value": "SUPPLEMENT"
+        },
+        {
+          "Field": "Suggested Use",
+          "Value": "Diindolylmethane (100-200 mg) – daily"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "Estradiol",
+          "Status": "ABOVE_REF_RANGE"
+        }
+      ],
+      "ranking": 5
+    }
+  ],
+  "total_interventions": 5
+}

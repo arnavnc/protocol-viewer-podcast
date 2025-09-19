@@ -1,0 +1,235 @@
+{
+  "protocol_type": "exercise",
+  "title": "Exercise & Recovery",
+  "interventions": [
+    {
+      "name": "Strength training",
+      "number": 1,
+      "action": "START",
+      "scientific_rationale": "Strength training directly improves lipid biomarkers (LDL, total cholesterol, Apo B) by increasing muscle mass and enhancing metabolic health, which helps lower cardiovascular risk. It also supports hormone optimization by promoting healthy testosterone and progesterone levels, and can increase ferritin and MCHC through improved red blood cell production. For women in their 40s, strength training is especially important for maintaining bone density, supporting longevity, and improving sleep and energy, all of which are crucial for preventive health and post-pregnancy recovery.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "1"
+        },
+        {
+          "Field": "Description",
+          "Details": "Strength training involves performing exercises that use resistance—such as bodyweight movements, resistance bands, or weights—to challenge and strengthen major muscle groups throughout the body, including the arms, shoulders, back, and core. These exercises are typically performed in sets and repetitions, focusing on controlled movements to build muscle and improve overall strength."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts energy, supports hormone balance, and improves cholesterol profile."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "2 times per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "40 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "Moderate"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "Hemoglobin A1c (HbA1c)",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Apolipoprotein B (Apo B)",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Particle Number (LDL-P)",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Cholesterol",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Non-HDL Cholesterol",
+          "Status": "ABOVE_REF_RANGE"
+        }
+      ],
+      "ranking": 1,
+      "frequency": "2 times per week",
+      "time": "40 minutes",
+      "tips": []
+    },
+    {
+      "name": "Zone 2 Cardio (LISS)",
+      "number": 2,
+      "action": "START",
+      "scientific_rationale": "Zone 2 Cardio directly improves lipid biomarkers by lowering LDL cholesterol, ApoB, and total cholesterol, while increasing HDL and LDL particle size. It also reduces homocysteine, ferritin, and prolactin, and supports hormone balance (SHBG). These benefits arise from enhanced fat metabolism, improved insulin sensitivity, and cardiovascular conditioning—especially important for women in their 40s seeking preventive health, hormone optimization, and sustained energy.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "2"
+        },
+        {
+          "Field": "Description",
+          "Details": "Zone 2 Cardio, also known as low-intensity steady-state (LISS) aerobic exercise, involves sustained activities like brisk walking, light jogging, or cycling at a pace where you can still hold a conversation. This form of exercise primarily engages the legs and core while efficiently training the cardiovascular system."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts heart health and optimizes cholesterol for longevity."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "3 times per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "35 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "Low"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "Apolipoprotein B (Apo B)",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Particle Number (LDL-P)",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Small",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Cholesterol",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Hemoglobin A1c (HbA1c)",
+          "Status": "NORMAL"
+        }
+      ],
+      "ranking": 2,
+      "frequency": "3 times per week",
+      "time": "35 minutes",
+      "tips": []
+    },
+    {
+      "name": "Yoga",
+      "number": 3,
+      "action": "START",
+      "scientific_rationale": "Yoga has been shown to reduce total cholesterol and improve glycemic control, directly benefiting out-of-range biomarkers such as total cholesterol and HbA1c. Its stress-reducing effects help regulate hormones like leptin and prolactin, while gentle movement supports cardiovascular health and sleep quality. For women in their 40s, yoga is especially valuable for hormone optimization, energy, and longevity, offering low-impact benefits that complement postpartum recovery and preventive health goals.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "3"
+        },
+        {
+          "Field": "Description",
+          "Details": "Yoga is a mind-body practice that combines gentle physical postures, stretching, controlled breathing, and mindfulness. It engages the full body, with a focus on flexibility, balance, and core strength, while also activating the glutes and supporting overall mobility."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts flexibility, lowers cholesterol, and supports hormone balance."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "2 times per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "35 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "Low"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "Total Cholesterol",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Cholesterol",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Apolipoprotein B (Apo B)",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Non-HDL Cholesterol",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Hemoglobin A1c (HbA1c)",
+          "Status": "NORMAL"
+        }
+      ],
+      "ranking": 3,
+      "frequency": "2 times per week",
+      "time": "35 minutes",
+      "tips": []
+    }
+  ],
+  "total_interventions": 3
+}

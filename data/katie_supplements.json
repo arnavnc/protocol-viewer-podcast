@@ -1,0 +1,393 @@
+{
+  "protocol_type": "supplements",
+  "title": "Supplementation",
+  "interventions": [
+    {
+      "name": "Vitamin D3 + K2",
+      "number": 1,
+      "action": "CONTINUE",
+      "scientific_rationale": "Your current vitamin D levels are within the normal range but not yet optimal for supporting foundational health, particularly in the postpartum period when bone and immune health are critical. Continued supplementation with vitamin D3, paired with K2, helps maintain healthy calcium metabolism, supports cardiovascular health, and may reduce the risk of vascular calcification, which is relevant given your elevated cholesterol and lipid markers. Evidence supports this combination for optimizing bone strength and immune resilience, both important for long-term preventive health and hormone balance.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "1"
+        },
+        {
+          "Field": "Description",
+          "Details": "Vitamin D3 + K2 is a supplement that combines vitamin D3, essential for bone and immune health, with vitamin K2, which helps direct calcium to the bones and away from arteries. Together, they support strong bones and cardiovascular wellness."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Supports bone, immune, and cardiovascular health for optimal longevity."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "SUPPLEMENT"
+        },
+        {
+          "Field": "Suggested Use",
+          "Value": "Vitamin D3 (1000-4000 IU) + Vitamin K2 (100-200 mcg) – daily"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "Testosterone, Free",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Calcium",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Neutrophils",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Vitamin D",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Thyroid-Stimulating Hormone (TSH)",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Albumin (Microalbumin) - Urine",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "High-Sensitivity C-Reactive Protein (hs-CRP)",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Testosterone, Total",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Ferritin",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Red Cell Distribution Width (RDW)",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Homocysteine",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Eosinophils",
+          "Status": "OPTIMAL"
+        }
+      ],
+      "ranking": 1
+    },
+    {
+      "name": "Omega-3 fatty acids",
+      "number": 2,
+      "action": "START",
+      "scientific_rationale": "Given your elevated LDL particle number, ApoB, and total cholesterol, omega-3 fatty acids are lightly recommended to support cardiovascular health by improving lipid profiles and reducing inflammation. Clinical studies demonstrate that omega-3s can help shift LDL particle size towards less atherogenic forms and lower cardiovascular risk, aligning with your preventive health and longevity goals. The anti-inflammatory properties of omega-3s also contribute to foundational health optimization.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "3"
+        },
+        {
+          "Field": "Description",
+          "Details": "Omega-3 fatty acids are essential fats found in fish oil and certain plant sources, known for supporting heart, brain, and joint health. They help reduce inflammation and promote healthy cholesterol levels."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Supports healthy cholesterol and cardiovascular protection for longevity."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "SUPPLEMENT"
+        },
+        {
+          "Field": "Suggested Use",
+          "Value": "EPA + DHA (250-500 mg) – daily"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "LDL Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Small",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Neutrophils",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "HDL Large",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "High-Sensitivity C-Reactive Protein (hs-CRP)",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Monocytes",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Leptin",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Triglycerides",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Apolipoprotein B (Apo B)",
+          "Status": "ABOVE_REF_RANGE"
+        }
+      ],
+      "ranking": 3
+    },
+    {
+      "name": "Shatavari",
+      "number": 3,
+      "action": "START",
+      "scientific_rationale": "Shatavari is lightly recommended for you due to its evidence-based support for increasing prolactin and promoting hormone balance, which is particularly relevant given your recent postpartum status and heavier menstrual bleeding. Clinical studies indicate that Shatavari can aid in postpartum recovery by supporting lactation and modulating hormonal fluctuations, contributing to foundational health and stress resilience.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "5"
+        },
+        {
+          "Field": "Description",
+          "Details": "Shatavari is a traditional herbal supplement derived from the root of Asparagus racemosus, commonly used to support female reproductive health, hormonal balance, and postpartum recovery."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Supports postpartum hormone balance and recovery."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "SUPPLEMENT"
+        },
+        {
+          "Field": "Suggested Use",
+          "Value": "Shatavari (500 mg) – daily"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "Prolactin",
+          "Status": "BELOW_REF_RANGE"
+        }
+      ],
+      "ranking": 5
+    },
+    {
+      "name": "Soluble fiber",
+      "number": 4,
+      "action": "START",
+      "scientific_rationale": "Given your elevated LDL particle number, small dense LDL, Apo B, and total cholesterol, soluble fiber is lightly recommended to support cardiovascular health by reducing absorption of dietary cholesterol and improving lipid profiles. Clinical evidence demonstrates that soluble fiber, such as psyllium, can lower LDL cholesterol and Apo B, while also enhancing metabolic flexibility and supporting gut microbiome balance—key factors for preventive health and longevity.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "7"
+        },
+        {
+          "Field": "Description",
+          "Details": "Soluble fiber is a type of dietary fiber found in foods like oats, beans, and psyllium husk. It dissolves in water to form a gel-like substance, helping to lower cholesterol, support digestive health, and regulate blood sugar."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Supports healthy cholesterol and cardiovascular health for longevity."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "SUPPLEMENT"
+        },
+        {
+          "Field": "Suggested Use",
+          "Value": "Soluble Fiber (5-10 g) – daily"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "LDL Particle Number (LDL-P)",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Non-HDL Cholesterol",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Cholesterol",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Total Cholesterol",
+          "Status": "ABOVE_REF_RANGE"
+        }
+      ],
+      "ranking": 7
+    },
+    {
+      "name": "Cranberry extract",
+      "number": 5,
+      "action": "START",
+      "scientific_rationale": "Cranberry extract is lightly recommended due to its well-established role in supporting urinary tract health, particularly in women during the postpartum period when the risk of urinary tract infections (UTIs) may be elevated. Clinical evidence demonstrates that cranberry polyphenols inhibit the adhesion of E. coli to the urinary tract lining, reducing the likelihood of infection. Given your recent postpartum status and abnormal urinary bacteria findings, cranberry extract may help maintain urinary tract integrity and prevent recurrent UTIs, supporting foundational health and recovery.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "9"
+        },
+        {
+          "Field": "Description",
+          "Details": "Cranberry extract is a natural supplement derived from cranberries, commonly used to support urinary tract health. It contains bioactive compounds that help prevent harmful bacteria from adhering to the urinary tract lining."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Supports urinary tract health and helps prevent postpartum UTIs."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "SUPPLEMENT"
+        },
+        {
+          "Field": "Suggested Use",
+          "Value": "Cranberry Extract (400-1500 mg) – daily"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "Bacteria - Urine",
+          "Status": "ABNORMAL"
+        },
+        {
+          "Biomarker": "Leukocytes - Urine",
+          "Status": "NORMAL"
+        }
+      ],
+      "ranking": 9
+    },
+    {
+      "name": "Moringa oleifera",
+      "number": 6,
+      "action": "START | **⚠️ CONTRAINDICATED**",
+      "scientific_rationale": "Given your recent postpartum status and lower prolactin levels, Moringa oleifera is lightly recommended due to its traditional use as a galactagogue and mechanistic evidence suggesting it may support increased prolactin and breastmilk production. While direct RCT evidence is limited, Moringa may aid in postpartum recovery and hormonal balance, aligning with your goals of hormone optimization and preventive health.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "11"
+        },
+        {
+          "Field": "Description",
+          "Details": "Moringa oleifera is a nutrient-rich plant traditionally used to support lactation and overall wellness. It contains vitamins, minerals, and bioactive compounds that may help promote recovery and vitality."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Supports postpartum recovery and may help optimize hormone balance."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "SUPPLEMENT"
+        },
+        {
+          "Field": "Suggested Use",
+          "Value": "Moringa Oleifera (500-2000 mg) – daily"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "Prolactin",
+          "Status": "BELOW_REF_RANGE"
+        }
+      ],
+      "ranking": 11
+    }
+  ],
+  "total_interventions": 6
+}

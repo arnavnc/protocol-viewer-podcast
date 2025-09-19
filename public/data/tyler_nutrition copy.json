@@ -1,0 +1,73 @@
+{
+  "protocol_type": "nutrition",
+  "title": "Nutrition",
+  "interventions": [
+    {
+      "name": "Uncategorized Foods",
+      "number": 1,
+      "action": "START",
+      "scientific_rationale": "This group of foods provides a wide range of nutrients that address several of your out-of-range biomarkers. Leafy greens (spinach, kale, broccoli) and legumes (lentils, edamame, soybeans) supply iron, folate, and plant-based protein to support healthy red blood cell production and improve MCH and MCHC. Animal proteins like chicken, lamb, beef steak, and especially chicken liver deliver heme iron, B vitamins, and zinc, which are more efficiently absorbed and help maintain optimal hematocrit and hormone levels. Fatty fish (salmon, mackerel, sardines) are rich in omega-3s, which can improve LDL particle size, lower inflammation, and support cardiovascular health. Nuts (almonds, pistachios) and apples add fiber and antioxidants, helping to manage cholesterol and support liver health. Together, these foods work synergistically to optimize blood, hormone, and heart biomarkers.\n\n| Field | Details |\n|-------|------|\n| Ranking | 2 |\n| Description | Aim to include a variety of these foods in your meals each week: add leafy greens like spinach and kale to salads or smoothies, enjoy fatty fish such as salmon or sardines 2-3 times per week, and rotate protein sources like chicken, lamb, or lentils at lunch or dinner. Snack on pistachios or almonds, and try adding edamame or soybeans to stir-fries or salads. Strive for a colorful plate and include at least one of these foods at most meals for broad nutrient coverage. |\n| Benefit Summary | Nutrients here support heart, hormone, and blood health for prevention. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    },
+    {
+      "name": "Hormone Balance Enhancement",
+      "number": 2,
+      "action": "START",
+      "scientific_rationale": "Flaxseeds are rich in lignans, which can increase sex hormone-binding globulin (SHBG) and help regulate testosterone and estradiol levels, supporting healthy hormone balance. Licorice root contains glycyrrhizin, which may reduce androgen production and modulate cortisol, though it should be used in moderation. Black beans and tempeh provide plant-based protein and phytoestrogens that can help stabilize hormone fluctuations and support metabolic health. Steamed broccoli contains indole-3-carbinol, which aids in estrogen metabolism, while sunflower seeds and pears offer fiber and micronutrients that support SHBG and hormone excretion. Brown rice supplies complex carbohydrates and B vitamins, which are important for hormone synthesis and energy metabolism. Together, these foods promote optimal hormone regulation and may help improve related biomarkers such as testosterone, estradiol, and SHBG.\n\n| Field | Details |\n|-------|------|\n| Ranking | 5 |\n| Description | Aim to include at least one hormone-balancing food at each meal. Add ground flaxseeds to your breakfast oatmeal or smoothie, enjoy black beans or tempeh in lunch salads or grain bowls, and pair steamed broccoli or sunflower seeds with dinner. Rotate pears as a snack and choose brown rice as a base for meals 2-3 times per week for steady fiber and nutrient intake. |\n| Benefit Summary | Balanced hormones support energy, metabolism, and long-term health. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    },
+    {
+      "name": "Liver Enzyme Regulation",
+      "number": 3,
+      "action": "START",
+      "scientific_rationale": "Green tea is rich in catechins, antioxidants shown to lower liver enzymes like AST by reducing inflammation and oxidative stress in liver cells. Walnuts provide omega-3 fatty acids and polyphenols that help decrease liver fat and support healthy cholesterol balance, both of which can improve liver enzyme profiles. Extra virgin olive oil offers monounsaturated fats and polyphenols that protect liver cells from damage and reduce inflammation. Cauliflower contains glucosinolates, which support liver detoxification pathways, while chickpeas supply fiber and plant-based protein that help regulate blood sugar and reduce fat accumulation in the liver. Together, these foods target the root causes of elevated AST and support overall liver health.\n\n| Field | Details |\n|-------|------|\n| Ranking | 6 |\n| Description | Aim to include at least one liver-supportive food at each meal. Start your day with green tea, add chickpeas or cauliflower to lunch salads or grain bowls, use extra virgin olive oil as your main cooking and salad oil, and enjoy a small handful of walnuts as a snack or topping. Rotate these foods throughout the week for variety and consistent liver support. |\n| Benefit Summary | Lower AST to protect your liver and reduce future disease risk. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    },
+    {
+      "name": "Red Blood Cell Optimization",
+      "number": 4,
+      "action": "START",
+      "scientific_rationale": "Red blood cell health depends on adequate iron, B vitamins, and vitamin C. Beef liver and dark chicken meat provide heme iron, which is highly bioavailable and directly supports hemoglobin and red blood cell synthesis, improving MCH and MCHC. Plant-based sources like mung beans, lentils, and spinach offer non-heme iron, which is best absorbed when eaten with vitamin C-rich foods such as guava, oranges, or kiwifruit; vitamin C converts iron to a form your body can use more efficiently. This combination helps correct mild anemia, enhances oxygen transport, and supports overall energy and endurance. Regular inclusion of these foods can help optimize your red blood cell indices and improve exercise performance.\n\n| Field | Details |\n|-------|------|\n| Ranking | 6 |\n| Description | Aim to include an iron-rich food at each main meal: enjoy citrus fruits like oranges or kiwifruit with breakfast, add a lemon-dressed spinach salad or lentils with vitamin C to lunch, and choose dark chicken meat or a small portion of beef liver for dinner. Pair plant-based iron sources (like mung beans or lentils) with vitamin C-rich foods to boost absorption. Rotate these foods throughout the week to support steady red blood cell production and energy. |\n| Benefit Summary | Improves oxygen delivery and energy for daily performance. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    },
+    {
+      "name": "Cholesterol Particle Reduction",
+      "number": 5,
+      "action": "START",
+      "scientific_rationale": "Soluble fiber from oats, barley, black beans, and psyllium husk binds cholesterol in your gut, increasing its excretion and directly lowering LDL particle number and small dense LDL, which are linked to heart disease risk. Avocado and olive oil provide monounsaturated fats that improve LDL particle size and support healthy cholesterol balance by enhancing LDL clearance from the bloodstream. Sunflower seeds and quinoa offer plant sterols and additional fiber, which further block cholesterol absorption and improve lipid profiles. Consistently including these foods can reduce atherosclerosis risk by improving your cholesterol subfractions and lowering inflammation.\n\n| Field | Details |\n|-------|------|\n| Ranking | 10 |\n| Description | Focus on adding high-fiber foods like oats or barley to your breakfast, use black beans or quinoa in lunch salads or bowls, and include avocado and olive oil as healthy fat sources in meals or snacks. Aim to eat at least one serving of these foods at most meals, rotating options for variety. Use sunflower seeds as a topping for salads or yogurt, and consider psyllium husk as a fiber boost in smoothies or oatmeal. |\n| Benefit Summary | Lowering LDL particles helps protect your heart and arteries long-term. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    },
+    {
+      "name": "Avoid Cholesterol & Organ Stress Foods",
+      "number": 6,
+      "action": "AVOID",
+      "scientific_rationale": "Foods high in saturated fats (like butter, fatty beef, and palm oil) and trans fats (such as margarine and shortening) increase LDL particle number and promote small dense LDL, which are strongly linked to cardiovascular disease risk. Processed meats, fried foods, and added sugars (like soda and pastries) can elevate liver enzymes and stress kidney function, worsening markers like AST and creatinine. Refined grains and sugary cereals spike blood sugar and insulin, contributing to hormone imbalance and further organ stress. Alcohol and ultra-processed snacks add to liver burden and disrupt healthy hormone levels, making it harder for your body to maintain optimal cholesterol, hormone, and kidney function.\n\n| Field | Details |\n|-------|------|\n| Ranking | 999 |\n| Description | To support your cholesterol, liver, and kidney health, avoid foods high in saturated fats, added sugars, and processed ingredients. Limit fried foods, processed meats, sugary drinks, and refined grains in your daily meals. Choose whole, minimally processed foods and cook at home when possible to help maintain healthy cholesterol and organ function. |\n| Benefit Summary | Lower LDL and liver stress to protect your heart and kidney health. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    }
+  ],
+  "total_interventions": 6
+}

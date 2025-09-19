@@ -1,0 +1,128 @@
+{
+  "protocol_type": "supplements",
+  "title": "Supplementation",
+  "interventions": [
+    {
+      "name": "Vitamin D3 + K2",
+      "number": 1,
+      "action": "CONTINUE",
+      "scientific_rationale": "Your vitamin D levels are currently optimal, which is associated with improved bone density, immune function, and cardiovascular health. Continued supplementation with Vitamin D3 + K2 helps maintain these foundational benefits, supporting calcium metabolism and vascular integrity. This approach aligns with preventive health care and the Foundation First principle for long-term wellness.\n\n| Field | Details |\n|-------|------|\n| Ranking | 1 |\n| Description | Vitamin D3 + K2 is a supplement that combines two essential nutrients important for bone strength, immune support, and heart health. Vitamin D3 aids calcium absorption, while K2 helps direct calcium to bones and away from arteries. |\n| Benefit Summary | Helps maintain optimal bone, immune, and cardiovascular health. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    },
+    {
+      "name": "Omega-3 fatty acids",
+      "number": 2,
+      "action": "CONTINUE",
+      "scientific_rationale": "Your omega-3 status is currently optimal, and maintaining supplementation supports cardiovascular health, reduces inflammation, and helps optimize lipid particle profiles, which is particularly relevant given your elevated LDL particle number and small LDL levels. Clinical evidence demonstrates that omega-3 fatty acids can improve lipid metabolism and promote foundational health, aligning with your preventive health care goals. Continued intake may also help counterbalance pro-inflammatory pathways and support long-term vascular function.\n\n| Field | Details |\n|-------|------|\n| Ranking | 3 |\n| Description | Omega-3 fatty acids are essential fats found in fish oil and certain plant sources. They support heart, brain, and joint health, and help reduce inflammation throughout the body. |\n| Benefit Summary | Supports cardiovascular health and optimal lipid profiles for prevention. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    },
+    {
+      "name": "Soluble fiber",
+      "number": 3,
+      "action": "START",
+      "scientific_rationale": "Given your elevated LDL particle number, small LDL particles, and above-range hematocrit, soluble fiber is lightly recommended to support cardiovascular health by lowering LDL cholesterol and improving lipid profiles. Clinical evidence demonstrates that soluble fiber enhances metabolic health and glycemic control, which is especially beneficial for preventive health care. Additionally, soluble fiber supports gut microbiota balance, contributing to foundational health and long-term disease prevention.\n\n| Field | Details |\n|-------|------|\n| Ranking | 11 |\n| Description | Soluble fiber is a type of dietary fiber found in foods like oats, beans, and fruits. It helps lower cholesterol, regulate blood sugar, and supports digestive health by forming a gel-like substance in the gut. |\n| Benefit Summary | Supports healthy cholesterol and metabolic balance for preventive health. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    },
+    {
+      "name": "Glycine",
+      "number": 4,
+      "action": "CONTINUE",
+      "scientific_rationale": "Glycine is lightly recommended for you due to its role in supporting metabolic health, promoting efficient collagen synthesis, and aiding recovery, which is particularly relevant given your high exercise frequency. Evidence suggests glycine contributes to improved sleep quality and cellular repair, both foundational for preventive health and optimal physical performance. Additionally, glycine is safe in the context of your biomarker profile and may help support metabolic flexibility and stress resilience.\n\n| Field | Details |\n|-------|------|\n| Ranking | 16 |\n| Description | Glycine is a non-essential amino acid that plays a key role in collagen formation, neurotransmitter function, and metabolic processes. It is commonly used to support sleep quality, joint health, and overall recovery. |\n| Benefit Summary | Supports metabolic health and recovery for your active lifestyle. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    },
+    {
+      "name": "Phosphatidylcholine",
+      "number": 5,
+      "action": "CONTINUE",
+      "scientific_rationale": "Phosphatidylcholine is lightly recommended for you due to its foundational role in supporting liver function and maintaining cellular membrane integrity, which is particularly relevant given your above-range AST and creatinine levels. Additionally, it contributes to cognitive health by serving as a precursor for acetylcholine, a key neurotransmitter involved in memory and learning. Evidence suggests that phosphatidylcholine may also support lipid metabolism, which aligns with your elevated LDL particle number and small LDL levels.\n\n| Field | Details |\n|-------|------|\n| Ranking | 17 |\n| Description | Phosphatidylcholine is a phospholipid found in cell membranes that supports liver health, aids in fat metabolism, and contributes to cognitive function by providing choline for neurotransmitter synthesis. |\n| Benefit Summary | Supports liver health and cellular function for foundational wellness. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    },
+    {
+      "name": "TUDCA",
+      "number": 6,
+      "action": "CONTINUE",
+      "scientific_rationale": "Your recent biomarker profile shows elevated AST, which may indicate increased liver stress or suboptimal liver function. TUDCA (tauroursodeoxycholic acid) has demonstrated efficacy in supporting liver health by reducing liver enzyme levels, including AST, and protecting hepatocytes from cellular stress. Continued use of TUDCA is supported by clinical evidence for its role in promoting liver resilience and maintaining optimal metabolic function.\n\n| Field | Details |\n|-------|------|\n| Ranking | 18 |\n| Description | TUDCA is a bile acid supplement that supports liver health and cellular protection. It is commonly used to promote healthy liver enzyme levels and aid in detoxification processes. |\n| Benefit Summary | Supports healthy liver enzyme levels and liver resilience. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    },
+    {
+      "name": "Uridine",
+      "number": 7,
+      "action": "CONTINUE",
+      "scientific_rationale": "Uridine is lightly recommended based on its potential to support cognitive function and liver health, which aligns with your preventive health care goals. While human evidence is limited, uridine may contribute to neuroplasticity and cellular repair, offering foundational support for brain and liver function. This is particularly relevant given your active lifestyle and focus on long-term health optimization.\n\n| Field | Details |\n|-------|------|\n| Ranking | 19 |\n| Description | Uridine is a naturally occurring nucleotide that plays a key role in brain function and cellular health. It is involved in the synthesis of RNA and supports cognitive processes and liver function. |\n| Benefit Summary | Supports cognitive function and liver health for preventive care. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    },
+    {
+      "name": "Exogenous Ketones",
+      "number": 8,
+      "action": "CONTINUE | **⚠️ CONTRAINDICATED**",
+      "scientific_rationale": "Given your high level of physical activity and focus on preventive health, exogenous ketones are lightly recommended to support metabolic flexibility and efficient energy production. Clinical evidence suggests that exogenous ketones can enhance exercise performance and promote stable blood glucose levels by providing an alternative fuel source for muscles and the brain. This may help optimize your energy systems and recovery, especially during periods of intense training or carbohydrate restriction.\n\n| Field | Details |\n|-------|------|\n| Ranking | 20 |\n| Description | Exogenous ketones are supplemental forms of ketone bodies, which serve as an alternative energy source for the body and brain. They are commonly used to support energy, mental clarity, and metabolic health, especially during low-carbohydrate diets or intense exercise. |\n| Benefit Summary | Supports metabolic flexibility and sustained energy during intense activity. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    },
+    {
+      "name": "D-Aspartic acid",
+      "number": 9,
+      "action": "START",
+      "scientific_rationale": "Your biomarker profile shows below-reference levels of luteinizing hormone (LH) and follicle stimulating hormone (FSH. D-Aspartic acid has been shown in animal and mechanistic studies to stimulate the release of LH, potentially supporting hormonal balance and reproductive axis function. While human evidence is limited, this supplement may help optimize your neuroendocrine signaling, which is foundational for long-term preventive health.\n\n| Field | Details |\n|-------|------|\n| Ranking | 34 |\n| Description | D-Aspartic acid is a naturally occurring amino acid involved in the regulation of hormone production, particularly in the brain and endocrine system. It is often used to support healthy testosterone and reproductive hormone levels. |\n| Benefit Summary | Supports healthy hormone signaling and neuroendocrine balance. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    },
+    {
+      "name": "Calcium d-glucarate",
+      "number": 10,
+      "action": "START",
+      "scientific_rationale": "Your estradiol levels are above the reference range, and calcium d-glucarate may support estrogen metabolism by enhancing the elimination of excess estrogens through glucuronidation pathways. While direct human evidence is limited, this mechanism could help maintain hormonal balance and support preventive health, especially in the context of elevated estradiol.\n\n| Field | Details |\n|-------|------|\n| Ranking | 38 |\n| Description | Calcium d-glucarate is a compound found in some fruits and vegetables that supports the body's natural detoxification processes, particularly by aiding the elimination of excess hormones and toxins. |\n| Benefit Summary | Supports healthy estrogen metabolism for hormonal balance. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    },
+    {
+      "name": "Vitamin B1",
+      "number": 11,
+      "action": "START",
+      "scientific_rationale": "Vitamin B1 (thiamine) plays a crucial role in cellular energy metabolism and mitochondrial function, supporting foundational health and metabolic flexibility. While evidence shows thiamine supplementation can lower creatinine in critically ill patients, your current biomarker profile and overall health status do not indicate a specific deficiency or increased need beyond what is provided in your standard B-complex. Supplementation may offer mild support for energy production and metabolic processes, but additional benefit is likely limited in your context.\n\n| Field | Details |\n|-------|------|\n| Ranking | 42 |\n| Description | Vitamin B1, also known as thiamine, is an essential water-soluble vitamin that helps the body convert carbohydrates into energy and supports nerve, muscle, and heart function. |\n| Benefit Summary | Supports cellular energy metabolism and foundational metabolic health. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1,
+      "tips": []
+    }
+  ],
+  "total_interventions": 11
+}

@@ -1,0 +1,67 @@
+{
+  "protocol_type": "supplements",
+  "title": "Supplementation",
+  "interventions": [
+    {
+      "name": "Vitamin D3 + K2",
+      "number": 1,
+      "action": "CONTINUE",
+      "scientific_rationale": "Your current vitamin D levels are within the normal range but not yet optimal for supporting foundational health, particularly in the postpartum period when bone and immune health are critical. Continued supplementation with vitamin D3, paired with K2, helps maintain healthy calcium metabolism, supports cardiovascular health, and may reduce the risk of vascular calcification, which is relevant given your elevated cholesterol and lipid markers. Evidence supports this combination for optimizing bone strength and immune resilience, both important for long-term preventive health and hormone balance.\n\n| Field | Details |\n|-------|------|\n| Ranking | 1 |\n| Description | Vitamin D3 + K2 is a supplement that combines vitamin D3, essential for bone and immune health, with vitamin K2, which helps direct calcium to the bones and away from arteries. Together, they support strong bones and cardiovascular wellness. |\n| Benefit Summary | Supports bone, immune, and cardiovascular health for optimal longevity. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1
+    },
+    {
+      "name": "Omega-3 fatty acids",
+      "number": 2,
+      "action": "START",
+      "scientific_rationale": "Given your elevated LDL particle number, ApoB, and total cholesterol, omega-3 fatty acids are lightly recommended to support cardiovascular health by improving lipid profiles and reducing inflammation. Clinical studies demonstrate that omega-3s can help shift LDL particle size towards less atherogenic forms and lower cardiovascular risk, aligning with your preventive health and longevity goals. The anti-inflammatory properties of omega-3s also contribute to foundational health optimization.\n\n| Field | Details |\n|-------|------|\n| Ranking | 3 |\n| Description | Omega-3 fatty acids are essential fats found in fish oil and certain plant sources, known for supporting heart, brain, and joint health. They help reduce inflammation and promote healthy cholesterol levels. |\n| Benefit Summary | Supports healthy cholesterol and cardiovascular protection for longevity. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1
+    },
+    {
+      "name": "Shatavari",
+      "number": 3,
+      "action": "START",
+      "scientific_rationale": "Shatavari is lightly recommended for you due to its evidence-based support for increasing prolactin and promoting hormone balance, which is particularly relevant given your recent postpartum status and heavier menstrual bleeding. Clinical studies indicate that Shatavari can aid in postpartum recovery by supporting lactation and modulating hormonal fluctuations, contributing to foundational health and stress resilience.\n\n| Field | Details |\n|-------|------|\n| Ranking | 5 |\n| Description | Shatavari is a traditional herbal supplement derived from the root of Asparagus racemosus, commonly used to support female reproductive health, hormonal balance, and postpartum recovery. |\n| Benefit Summary | Supports postpartum hormone balance and recovery. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1
+    },
+    {
+      "name": "Soluble fiber",
+      "number": 4,
+      "action": "START",
+      "scientific_rationale": "Given your elevated LDL particle number, small dense LDL, Apo B, and total cholesterol, soluble fiber is lightly recommended to support cardiovascular health by reducing absorption of dietary cholesterol and improving lipid profiles. Clinical evidence demonstrates that soluble fiber, such as psyllium, can lower LDL cholesterol and Apo B, while also enhancing metabolic flexibility and supporting gut microbiome balance—key factors for preventive health and longevity.\n\n| Field | Details |\n|-------|------|\n| Ranking | 7 |\n| Description | Soluble fiber is a type of dietary fiber found in foods like oats, beans, and psyllium husk. It dissolves in water to form a gel-like substance, helping to lower cholesterol, support digestive health, and regulate blood sugar. |\n| Benefit Summary | Supports healthy cholesterol and cardiovascular health for longevity. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1
+    },
+    {
+      "name": "Cranberry extract",
+      "number": 5,
+      "action": "START",
+      "scientific_rationale": "Cranberry extract is lightly recommended due to its well-established role in supporting urinary tract health, particularly in women during the postpartum period when the risk of urinary tract infections (UTIs) may be elevated. Clinical evidence demonstrates that cranberry polyphenols inhibit the adhesion of E. coli to the urinary tract lining, reducing the likelihood of infection. Given your recent postpartum status and abnormal urinary bacteria findings, cranberry extract may help maintain urinary tract integrity and prevent recurrent UTIs, supporting foundational health and recovery.\n\n| Field | Details |\n|-------|------|\n| Ranking | 9 |\n| Description | Cranberry extract is a natural supplement derived from cranberries, commonly used to support urinary tract health. It contains bioactive compounds that help prevent harmful bacteria from adhering to the urinary tract lining. |\n| Benefit Summary | Supports urinary tract health and helps prevent postpartum UTIs. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1
+    },
+    {
+      "name": "Moringa oleifera",
+      "number": 6,
+      "action": "START | **⚠️ CONTRAINDICATED**",
+      "scientific_rationale": "Given your recent postpartum status and lower prolactin levels, Moringa oleifera is lightly recommended due to its traditional use as a galactagogue and mechanistic evidence suggesting it may support increased prolactin and breastmilk production. While direct RCT evidence is limited, Moringa may aid in postpartum recovery and hormonal balance, aligning with your goals of hormone optimization and preventive health.\n\n| Field | Details |\n|-------|------|\n| Ranking | 11 |\n| Description | Moringa oleifera is a nutrient-rich plant traditionally used to support lactation and overall wellness. It contains vitamins, minerals, and bioactive compounds that may help promote recovery and vitality. |\n| Benefit Summary | Supports postpartum recovery and may help optimize hormone balance. |",
+      "details": [],
+      "parameters": [],
+      "target_biomarkers": [],
+      "ranking": 1
+    }
+  ],
+  "total_interventions": 6
+}

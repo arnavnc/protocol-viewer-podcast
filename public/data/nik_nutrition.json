@@ -1,0 +1,125 @@
+{
+  "protocol_type": "nutrition",
+  "title": "Nutrition",
+  "interventions": [
+    {
+      "name": "Hormone Level Regulation",
+      "number": 1,
+      "action": "START",
+      "personalized_note": "Given your 424 recorded activities, with most being strength training averaging 50 minutes, supporting hormone balance is especially important to protect muscle health and long-term recovery. Regular intake of soy and legume-based foods will also complement your good sleep patterns, helping your body reset hormone pathways overnight.",
+      "scientific_rationale": "Soy foods like tempeh, tofu, and edamame are rich in phytoestrogens (isoflavones), which can bind to estrogen receptors and help reduce the effects of excess estradiol by modulating receptor activity. Legumes such as black beans and lentils provide soluble fiber that promotes the excretion of estrogen through the digestive tract, lowering circulating levels. These foods work together to support healthy hormone metabolism, which is particularly important for men with elevated estradiol, as it may help reduce risks related to metabolic and reproductive health. Regular inclusion of these foods can also positively influence cholesterol and inflammation, supporting overall preventive health.",
+      "details": [
+        {
+          "Field": "Ranking",
+          "Details": "6"
+        },
+        {
+          "Field": "Description",
+          "Details": "Aim to include at least one serving of soy foods or legumes, such as tempeh, tofu, or lentils, in your lunch or dinner each day. Rotate these foods throughout the week—try adding black beans or edamame to salads, stir-fries, or grain bowls for variety. Focus on whole, minimally processed forms and pair with high-fiber vegetables to maximize hormone-balancing benefits."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Balanced hormones support energy, muscle health, and long-term wellness."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "Type",
+          "Value": "NUTRITION"
+        },
+        {
+          "Field": "Foods to Include",
+          "Value": "Tempeh, Tofu, Edamame, Lentils, Black beans"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "Estradiol",
+          "Status": "ABOVE_REF_RANGE"
+        }
+      ],
+      "ranking": 6
+    },
+    {
+      "name": "Cholesterol Particle Enhancement",
+      "number": 2,
+      "action": "START",
+      "personalized_note": "With your average resting heart rate of 58 bpm and a consistent exercise schedule, your cardiovascular foundation is strong. To further protect against heart risk, prioritizing cholesterol particle remodeling foods will add resilience. Since you're already supplementing with omega-3 fatty acids, focusing on whole food sources like fatty fish, nuts, and oats will reinforce those benefits.",
+      "scientific_rationale": "These foods support healthier cholesterol profiles by increasing LDL particle size and raising large HDL particles, both of which are linked to lower cardiovascular risk. Fatty fish such as salmon, sardines, and mackerel provide omega-3 fatty acids that reduce triglycerides and promote larger, less harmful LDL particles. Nuts (walnuts, almonds, pistachios, hazelnuts) and extra virgin olive oil are rich in unsaturated fats and plant sterols, which help shift cholesterol toward protective forms and improve HDL function. Whole grains like oats and barley contain beta-glucan, a soluble fiber that binds cholesterol in the gut and encourages favorable lipid remodeling. Legumes and vegetables add fiber and antioxidants, supporting overall lipid metabolism and vascular health.",
+      "details": [
+        {
+          "Field": "Ranking",
+          "Details": "10"
+        },
+        {
+          "Field": "Description",
+          "Details": "Aim to include a variety of these foods in your meals each day: start breakfast with oatmeal or barley, add walnuts or almonds as a snack, and use extra virgin olive oil or avocado in salads and cooking. Include fatty fish like salmon or sardines 2-3 times per week, and rotate in legumes like lentils or chickpeas for plant-based protein. Try to combine nuts, seeds, whole grains, and vegetables throughout the week to maximize cholesterol benefits."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Larger, healthier cholesterol particles help protect your heart and arteries."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "Type",
+          "Value": "NUTRITION"
+        },
+        {
+          "Field": "Foods to Include",
+          "Value": "Salmon, Sardines, Mackerel, Fatty fish, Extra virgin olive oil, Olive oil, Walnuts, Raw walnuts snack, Almonds, Toasted almonds, Pistachios, Hazelnuts, Soybeans, Chickpeas, Fiber-packed lentil stew, Beta-glucan rich oatmeal, Oats, Barley, Quinoa salad mix, Avocado, Broccoli, Eggs"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "LDL Particle Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Large HDL Particle Concentration",
+          "Status": "BELOW_REF_RANGE"
+        }
+      ],
+      "ranking": 10
+    },
+    {
+      "name": "Avoid Kidney Stress & Processed Risk Foods",
+      "number": 3,
+      "action": "AVOID",
+      "personalized_note": "Because your activity output is high—burning an average of 593 calories per training session and maintaining 7.3 hours of sleep for recovery—avoiding processed foods is essential. Keeping kidneys and lipid metabolism unburdened ensures your body can efficiently repair from training and maintain preventive health.",
+      "scientific_rationale": "Processed foods, sugary beverages, and fast food are high in sodium, added sugars, unhealthy fats, and preservatives, all of which can increase kidney workload and raise creatinine levels. Red and processed meats contain compounds that elevate creatinine and may worsen cardiovascular risk by increasing LDL and altering HDL profiles. Frequent consumption of these foods is linked to chronic kidney disease progression and higher rates of heart disease, while limiting them helps maintain healthy kidney function, improves lipid markers, and reduces inflammation. By avoiding these foods, you support your body's natural filtration systems and lower your risk for chronic conditions.",
+      "details": [
+        {
+          "Field": "Ranking",
+          "Details": "999"
+        },
+        {
+          "Field": "Description",
+          "Details": "Focus on limiting processed snacks, sugary drinks, and fast food in your daily routine. When eating out or shopping, choose whole, minimally processed foods and avoid products with added sugars, refined grains, or processed meats. Make it a habit to check labels and plan meals ahead to reduce temptation and support kidney and heart health."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Reduces kidney strain and lowers long-term heart and metabolic risks."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "Type",
+          "Value": "NUTRITION"
+        },
+        {
+          "Field": "Foods to Avoid",
+          "Value": "Soda, Energy drinks, Sweetened iced tea, Sports drinks, Fast food burgers, Fried chicken, French fries, Frozen pizza, Hot pockets, Instant noodles, Bacon, Sausage, Hot dogs, Salami, Bologna, Ultraprocessed Meats, Candy, Pastries, Donuts, Cakes, Cookies, Refined pasta, Sugary cereals, Potato chips, Cheese puffs, Pretzels, Fried mozzarella sticks, Onion rings, Margarine sticks, Shortening, Packaged baked goods, Beer, Wine, Whiskey, Vodka, Rum, Cocktails, Flavored coffee creamers"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "Urinary Creatinine",
+          "Status": "ABOVE_REF_RANGE"
+        }
+      ],
+      "ranking": 999
+    }
+  ],
+  "total_interventions": 3
+}

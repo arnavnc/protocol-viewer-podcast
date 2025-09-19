@@ -1,0 +1,514 @@
+{
+  "protocol_type": "exercise",
+  "title": "Exercise & Recovery",
+  "interventions": [
+    {
+      "name": "Strength training",
+      "number": 1,
+      "action": "CONTINUE",
+      "scientific_rationale": "Strength training directly supports improvements in key biomarkers such as testosterone, glucose, and body composition by stimulating muscle growth, enhancing insulin sensitivity, and promoting favorable hormonal responses. For a 41-year-old male like Tyler, regular strength training helps maintain lean mass, supports cardiovascular and metabolic health, and addresses out-of-range markers like elevated creatinine and hematocrit by improving muscle efficiency and circulation. This exercise is especially important for preventive health, as it reduces long-term risks of chronic disease and supports healthy aging.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "1"
+        },
+        {
+          "Field": "Description",
+          "Details": "Strength training involves performing resistance exercises—such as lifting weights, using resistance bands, or bodyweight movements—that target major muscle groups including the arms, shoulders, back, and full body. These exercises are designed to build muscle strength, improve endurance, and enhance overall functional fitness."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts metabolic health and supports healthy hormone balance."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "3 times per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "40 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "Moderate"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "LDL Particle Number (LDL-P)",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Small",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Estradiol",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Aspartate Transaminase (AST)",
+          "Status": "ABOVE_REF_RANGE"
+        }
+      ],
+      "ranking": 1,
+      "frequency": "3 times per week",
+      "time": "40 minutes",
+      "tips": []
+    },
+    {
+      "name": "HIIT (High Intensity Interval Training)",
+      "number": 2,
+      "action": "CONTINUE",
+      "scientific_rationale": "HIIT improves cardiovascular and metabolic health by enhancing glucose regulation, reducing LDL particle number, and supporting healthy blood pressure. Its intense, anaerobic intervals stimulate testosterone production and optimize red blood cell indices, while also promoting favorable changes in body composition. For a 41-year-old male like Tyler, HIIT is time-efficient and particularly effective for preventive health, addressing age-related metabolic shifts and supporting long-term vitality.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "2"
+        },
+        {
+          "Field": "Description",
+          "Details": "High Intensity Interval Training (HIIT) alternates short bursts of intense, full-body exercise with periods of active recovery or rest. This approach challenges both aerobic and anaerobic systems, engaging major muscle groups and rapidly elevating heart rate for maximum efficiency."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts cardiovascular health and optimizes key metabolic biomarkers."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "2 times per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "25 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "High"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "LDL Particle Number (LDL-P)",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Small",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Estradiol",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Glucose",
+          "Status": "NORMAL"
+        }
+      ],
+      "ranking": 2,
+      "frequency": "2 times per week",
+      "time": "25 minutes",
+      "tips": []
+    },
+    {
+      "name": "Track Intervals",
+      "number": 3,
+      "action": "START",
+      "scientific_rationale": "Track intervals, as a form of high-intensity aerobic exercise, directly improve lipid profiles by increasing HDL and large HDL particles, reducing LDL particle number and small LDL, and increasing LDL particle size. They also lower glucose, uric acid, homocysteine, and liver enzymes (AST), while supporting kidney function (eGFR) and reducing hematocrit. For a 41-year-old active male, these adaptations help optimize cardiovascular and metabolic biomarkers, supporting preventive health and long-term vitality.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "3"
+        },
+        {
+          "Field": "Description",
+          "Details": "Track intervals involve alternating periods of fast running or sprinting with recovery periods of walking or slow jogging on a track. This high-intensity aerobic workout primarily targets the legs and core, boosting cardiovascular fitness and muscular endurance."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts heart health and optimizes cholesterol and glucose levels."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "1 time per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "25 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "High"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "LDL Particle Number (LDL-P)",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Small",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Hematocrit",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Estimated Glomerular Filtration Rate (eGFR)",
+          "Status": "NORMAL"
+        }
+      ],
+      "ranking": 3,
+      "frequency": "1 time per week",
+      "time": "25 minutes",
+      "tips": []
+    },
+    {
+      "name": "Cycling",
+      "number": 4,
+      "action": "CONTINUE",
+      "scientific_rationale": "Cycling at moderate intensity improves cardiovascular biomarkers by lowering LDL particle number and small LDL, increasing HDL and large HDL particles, and reducing total cholesterol and triglycerides. It also supports kidney and liver health by lowering creatinine, uric acid, and AST, while improving eGFR. For a 41-year-old male like Tyler, cycling is joint-friendly, reduces obesity risk, and supports hormone balance, making it ideal for preventive health and long-term vitality.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "4"
+        },
+        {
+          "Field": "Description",
+          "Details": "Cycling is a rhythmic, low-impact aerobic exercise performed on a bicycle, engaging the legs, glutes, and core muscles while also providing cardiovascular conditioning. It can be done outdoors or on a stationary bike, making it adaptable to various fitness levels and environments."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts heart health, lowers cholesterol, and supports healthy metabolism."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "2 times per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "50 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "Moderate"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "LDL Small",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Particle Number (LDL-P)",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Hematocrit",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Estimated Glomerular Filtration Rate (eGFR)",
+          "Status": "NORMAL"
+        }
+      ],
+      "ranking": 4,
+      "frequency": "2 times per week",
+      "time": "50 minutes",
+      "tips": []
+    },
+    {
+      "name": "Assault Bike Sprints",
+      "number": 5,
+      "action": "START",
+      "scientific_rationale": "High-intensity aerobic intervals like Assault Bike Sprints improve lipid profiles by increasing HDL and large HDL particles, reducing LDL particle number and small LDL, and lowering total cholesterol. They also enhance glucose control, lower homocysteine, and support kidney and liver health by reducing creatinine, uric acid, and AST. For a 41-year-old active male, these sprints efficiently target cardiovascular and metabolic biomarkers, supporting preventive health and long-term vitality.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "5"
+        },
+        {
+          "Field": "Description",
+          "Details": "Assault Bike Sprints are high-intensity intervals performed on a stationary air-resistance bike, combining rapid pedaling and pushing/pulling of handlebars to engage the legs, core, and arms. Each sprint is followed by a short recovery period, making this a full-body, cardiovascularly demanding workout."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts cardiovascular health and optimizes cholesterol profile."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "1 time per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "20 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "High"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "LDL Particle Number (LDL-P)",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Small",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Hematocrit",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Estimated Glomerular Filtration Rate (eGFR)",
+          "Status": "NORMAL"
+        }
+      ],
+      "ranking": 5,
+      "frequency": "1 time per week",
+      "time": "20 minutes",
+      "tips": []
+    },
+    {
+      "name": "Functional Range Conditioning",
+      "number": 6,
+      "action": "START",
+      "scientific_rationale": "Functional Range Conditioning enhances joint mobility and flexibility, which supports improved circulation and metabolic health—key factors in optimizing cholesterol levels and supporting healthy blood markers. For adults in their 40s, FRC helps maintain connective tissue health, reduces injury risk, and supports overall physical function, making it especially valuable for preventive health. Regular flexibility work can also indirectly benefit cardiovascular and metabolic biomarkers by promoting consistent, safe movement and recovery.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "6"
+        },
+        {
+          "Field": "Description",
+          "Details": "Functional Range Conditioning (FRC) is a mobility and flexibility training system that uses controlled articular rotations and targeted joint movements to improve range of motion, joint health, and muscular control throughout the entire body. It emphasizes slow, deliberate movements to strengthen and mobilize all major joints."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts joint health and flexibility while supporting healthy cholesterol."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "3 times per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "20 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "Low"
+        }
+      ],
+      "target_biomarkers": [],
+      "ranking": 6,
+      "frequency": "3 times per week",
+      "time": "20 minutes",
+      "tips": []
+    },
+    {
+      "name": "Obstacle course racing",
+      "number": 7,
+      "action": "START",
+      "scientific_rationale": "Obstacle course racing, as a high-intensity aerobic activity, improves cardiovascular and metabolic biomarkers by enhancing lipid profiles (increasing HDL, reducing LDL and total cholesterol), lowering blood glucose, and supporting kidney and liver function. The combination of endurance and strength elements also helps regulate hormone levels and reduce inflammation. For a 41-year-old active male, this exercise supports preventive health by targeting age-related risks and optimizing overall metabolic health.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "7"
+        },
+        {
+          "Field": "Description",
+          "Details": "Obstacle course racing is a dynamic, full-body activity that combines running with a variety of physical challenges such as climbing, crawling, jumping, and balancing. It engages cardiovascular endurance, muscular strength, agility, and coordination, making it both physically demanding and mentally stimulating."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts cardiovascular health and optimizes key metabolic biomarkers."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "1 time per week (training)"
+        },
+        {
+          "Field": "Time",
+          "Value": "60 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "High"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "LDL Particle Number (LDL-P)",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Small",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Hematocrit",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Creatinine",
+          "Status": "ABOVE_REF_RANGE"
+        }
+      ],
+      "ranking": 7,
+      "frequency": "1 time per week (training)",
+      "time": "60 minutes",
+      "tips": []
+    }
+  ],
+  "total_interventions": 7
+}

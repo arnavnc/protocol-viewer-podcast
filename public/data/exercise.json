@@ -1,0 +1,323 @@
+{
+  "protocol_type": "exercise",
+  "title": "Exercise & Recovery",
+  "interventions": [
+    {
+      "name": "Strength Training",
+      "number": 1,
+      "action": "START",
+      "frequency": "4x/week",
+      "time": "~50 minutes (matches current average)",
+      "scientific_rationale": "Strength training directly improves out-of-range biomarkers such as creatinine, LDL size, HDL large, estradiol, and MPV by enhancing muscle mass, promoting favorable lipid particle changes, and supporting hormonal balance. Mechanistically, resistance exercise increases muscle metabolism, elevates free testosterone, and improves lipid profiles, which is especially beneficial for a healthy 33-year-old male aiming for preventive care. Regular strength training at this life stage maximizes metabolic health, supports optimal hormone levels, and reduces long-term disease risk.",
+      "details": [
+        {
+          "Field": "Ranking",
+          "Details": "1"
+        },
+        {
+          "Field": "Description",
+          "Details": "Strength training involves performing resistance exercises—such as lifting free weights, using machines, or bodyweight movements—that target major muscle groups including the arms, shoulders, back, and the entire body. These exercises are designed to build muscle strength, enhance endurance, and improve overall physical function."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts muscle strength and optimizes key metabolic biomarkers."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "4 times per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "50 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "Moderate"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "LDL Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "HDL Large",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Estradiol",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Mean Platelet Volume (MPV)",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Testosterone, Free",
+          "Status": "NORMAL"
+        }
+      ],
+      "ranking": 1,
+      "tips": []
+    },
+    {
+      "name": "Assault Bike Sprints",
+      "number": 2,
+      "action": "START",
+      "frequency": "2x/week",
+      "time": "15 minutes",
+      "scientific_rationale": "High-intensity aerobic intervals like Assault Bike Sprints have been shown to increase HDL and large HDL particles, improve LDL particle size, and reduce small, atherogenic LDL particles. They also support kidney health by lowering creatinine and blood urea nitrogen, while enhancing eGFR. For a healthy, active 33-year-old, these sprints efficiently target cardiovascular and metabolic biomarkers, supporting long-term preventive health.",
+      "details": [
+        {
+          "Field": "Ranking",
+          "Details": "2"
+        },
+        {
+          "Field": "Description",
+          "Details": "Assault Bike Sprints are high-intensity intervals performed on a stationary air bike, where you alternate short bursts of all-out pedaling with periods of rest or low-intensity cycling. This full-body exercise powerfully engages your legs, core, and arms, delivering both cardiovascular and muscular benefits."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts heart health and optimizes cholesterol and kidney biomarkers."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "2 times per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "15 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "High"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "LDL Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "HDL Large",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Small",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Estimated Glomerular Filtration Rate (eGFR)",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Creatinine",
+          "Status": "ABOVE_REF_RANGE"
+        }
+      ],
+      "ranking": 2,
+      "tips": []
+    },
+    {
+      "name": "Cycling",
+      "number": 3,
+      "action": "START",
+      "frequency": "2x/week",
+      "time": "40 minutes",
+      "scientific_rationale": "Cycling at moderate intensity improves key biomarkers such as LDL size, HDL large particles, and creatinine by enhancing cardiovascular function, lipid metabolism, and kidney health. Regular cycling increases large HDL and LDL particle size, reduces atherogenic small LDL, and supports healthy hormone balance. For a healthy, active 33-year-old male focused on prevention, cycling complements weight training by targeting cardiovascular and metabolic health, supporting optimal biomarker profiles and long-term disease prevention.",
+      "details": [
+        {
+          "Field": "Ranking",
+          "Details": "3"
+        },
+        {
+          "Field": "Description",
+          "Details": "Cycling is a rhythmic, low-impact aerobic exercise performed on a stationary or outdoor bicycle, primarily engaging the legs (quadriceps, hamstrings, calves) and core muscles. It elevates heart rate and breathing, making it an effective cardiovascular workout suitable for a wide range of fitness levels."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts heart health and optimizes cholesterol for preventive care."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "2 times per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "40 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "Moderate"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "LDL Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "HDL Large",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Creatinine",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Estimated Glomerular Filtration Rate (eGFR)",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "LDL Small",
+          "Status": "NORMAL"
+        }
+      ],
+      "ranking": 3,
+      "tips": []
+    },
+    {
+      "name": "HIIT (High Intensity Interval Training)",
+      "number": 4,
+      "action": "START",
+      "frequency": "2x/week",
+      "time": "25 minutes",
+      "scientific_rationale": "HIIT improves out-of-range biomarkers such as creatinine, LDL size, HDL large, estradiol, and MPV by enhancing cardiovascular efficiency, promoting favorable lipid changes, and supporting hormone balance. For a healthy, active 33-year-old, HIIT increases free testosterone and supports optimal metabolic and cardiovascular profiles, leveraging both anaerobic and aerobic mechanisms for preventive health.",
+      "details": [
+        {
+          "Field": "Ranking",
+          "Details": "4"
+        },
+        {
+          "Field": "Description",
+          "Details": "High Intensity Interval Training (HIIT) alternates short bursts of intense, full-body exercise with brief recovery periods. This approach rapidly elevates heart rate and challenges multiple muscle groups, making it a time-efficient workout that boosts both strength and cardiovascular fitness."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts cardiovascular health and optimizes key metabolic biomarkers."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "2 times per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "25 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "High"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "LDL Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "HDL Large",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Testosterone, Free",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Estradiol",
+          "Status": "ABOVE_REF_RANGE"
+        }
+      ],
+      "ranking": 4,
+      "tips": []
+    },
+    {
+      "name": "Trail Running",
+      "number": 5,
+      "action": "START",
+      "frequency": "1x/week",
+      "time": "60 minutes",
+      "scientific_rationale": "Trail running, as a high-intensity aerobic activity, improves cardiovascular and metabolic biomarkers by increasing HDL (including large HDL particles), raising LDL particle size, and reducing small, atherogenic LDL. It also supports kidney and liver health by lowering creatinine, BUN, uric acid, and AST, while enhancing eGFR. For a healthy, active 33-year-old male, trail running offers robust preventive benefits, optimizing lipid profiles, hormone balance, and immune markers through sustained aerobic stress and muscular engagement.",
+      "details": [
+        {
+          "Field": "Ranking",
+          "Details": "5"
+        },
+        {
+          "Field": "Description",
+          "Details": "Trail running involves running on natural, uneven terrain such as dirt paths, forest trails, or mountain tracks. It primarily engages the legs and core muscles, challenging balance, agility, and cardiovascular endurance as you navigate hills, rocks, and varied surfaces."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts cardiovascular health and optimizes key metabolic biomarkers."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "1 time per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "60 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "High"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "LDL Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "HDL Large",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Creatinine",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Estimated Glomerular Filtration Rate (eGFR)",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Blood Urea Nitrogen (BUN)",
+          "Status": "NORMAL"
+        }
+      ],
+      "ranking": 5,
+      "tips": []
+    }
+  ],
+  "total_interventions": 5
+}
