@@ -76,8 +76,7 @@
       "ranking": 1,
       "frequency": "2 times per week",
       "time": "40 minutes",
-      "tips": [],
-      "lifestyle_context": "Starting strength training will significantly enhance your metabolic health and help lower your elevated LDL cholesterol and Apo B levels, which are important for reducing cardiovascular risk. Given your current average of 2,454 daily steps, incorporating structured strength sessions into your routine can provide a balanced approach to improving your overall fitness and supporting hormone optimization. Focus on starting with two to three sessions a week, gradually building up to establish a sustainable habit for your long-term health goals."
+      "tips": []
     },
     {
       "name": "Zone 2 Cardio (LISS)",
@@ -153,8 +152,7 @@
       "ranking": 2,
       "frequency": "3 times per week",
       "time": "35 minutes",
-      "tips": [],
-      "lifestyle_context": "Incorporating Zone 2 Cardio into your routine will significantly enhance your overall health by improving key lipid biomarkers, which is crucial given your current LDL and ApoB levels. Even with an average of just 2,454 daily steps, starting this low-intensity exercise can be easily integrated into your day\u2014consider brisk walking or cycling for 30 minutes a few times a week. This gradual approach not only supports your cardiovascular health but also helps balance your hormones, setting you on a path toward better overall wellness."
+      "tips": []
     },
     {
       "name": "Yoga",
@@ -230,8 +228,7 @@
       "ranking": 3,
       "frequency": "2 times per week",
       "time": "35 minutes",
-      "tips": [],
-      "lifestyle_context": "Starting a regular yoga practice can greatly enhance your overall health, Katie, especially as it targets your elevated cholesterol levels and supports glycemic control. Incorporating this gentle exercise into your routine can help manage stress and improve cardiovascular health, which aligns well with your current low activity levels and can make a significant difference in your well-being. Aim for at least 2-3 sessions per week to start feeling the benefits!"
+      "tips": []
     }
   ],
   "total_interventions": 3

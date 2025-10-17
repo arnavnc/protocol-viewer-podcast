@@ -93,8 +93,7 @@
           "Status": "OPTIMAL"
         }
       ],
-      "ranking": 1,
-      "lifestyle_context": "Continuing with Vitamin D3 + K2 supplementation will support your bone and immune health during this critical postpartum period, even as your vitamin D levels are currently within the normal range. With an average of just 2,454 daily steps, focusing on increasing your physical activity can further enhance your overall well-being, making the benefits of these supplements even more pronounced. Prioritizing movement and maintaining your supplementation will help you optimize your health during this time."
+      "ranking": 1
     },
     {
       "name": "Omega-3 fatty acids",
@@ -175,8 +174,7 @@
           "Status": "ABOVE_REF_RANGE"
         }
       ],
-      "ranking": 3,
-      "lifestyle_context": "Incorporating omega-3 fatty acids into your routine, Katie, can support your cardiovascular health by improving your lipid profile, especially given your elevated LDL particle levels. While your average daily steps are currently low at 2,454, focusing on increasing your activity alongside this supplement may further enhance your heart health and overall well-being. Consider small, manageable changes to your daily movement to optimize the benefits of omega-3s."
+      "ranking": 3
     },
     {
       "name": "Shatavari",
@@ -225,8 +223,7 @@
           "Status": "BELOW_REF_RANGE"
         }
       ],
-      "ranking": 5,
-      "lifestyle_context": "Incorporating Shatavari into your supplement routine can support your postpartum recovery and help balance your hormones, particularly as you navigate heavier menstrual bleeding. Given your current average of just 2,454 daily steps, consider pairing this supplement with gentle physical activities, like walking or stretching, to enhance overall well-being and energy levels. Prioritizing these small adjustments can foster a more balanced lifestyle as you adjust to motherhood."
+      "ranking": 5
     },
     {
       "name": "Soluble fiber",
@@ -287,8 +284,7 @@
           "Status": "ABOVE_REF_RANGE"
         }
       ],
-      "ranking": 7,
-      "lifestyle_context": "Incorporating soluble fiber into your routine can help manage your elevated cholesterol levels, supporting your cardiovascular health. Given your average of 2,454 daily steps, increasing your fiber intake can complement your lifestyle by improving your lipid profile, even without extensive exercise data. Aim to include fiber-rich foods or supplements in your meals to optimize your health and feel your best, Katie."
+      "ranking": 7
     },
     {
       "name": "Cranberry extract",
@@ -341,8 +337,7 @@
           "Status": "NORMAL"
         }
       ],
-      "ranking": 9,
-      "lifestyle_context": "For you, Katie, incorporating cranberry extract into your routine can enhance your urinary tract health, especially during times when your risk for infections may be higher. While your activity levels are currently low, with an average of just 2,454 steps daily, focusing on consistent hydration and nutrition, including this supplement, can support your overall wellness and help mitigate potential health risks. Consider gradually increasing your physical activity to further boost your health outcomes."
+      "ranking": 9
     },
     {
       "name": "Moringa oleifera",
@@ -391,8 +386,7 @@
           "Status": "BELOW_REF_RANGE"
         }
       ],
-      "ranking": 11,
-      "lifestyle_context": "Katie, while Moringa oleifera is traditionally recommended to support breastmilk production, it is currently contraindicated for you. Instead, focus on gradually increasing your daily activity, as your average of 2,454 steps suggests there's room for improvement in movement, which can naturally boost overall health and potentially support your postpartum recovery. Consider integrating gentle exercises like walking or postpartum yoga to enhance your well-being without overexertion."
+      "ranking": 11
     }
   ],
   "total_interventions": 6

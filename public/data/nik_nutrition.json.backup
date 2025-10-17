@@ -38,8 +38,7 @@
           "Status": "ABOVE_REF_RANGE"
         }
       ],
-      "ranking": 6,
-      "lifestyle_context": "Nik, incorporating more soy foods like tempeh and edamame into your diet can help regulate your estradiol levels, complementing your active lifestyle of 347 strength training sessions and an average of 6,764 daily steps. This nutritional strategy not only supports your hormonal balance but also aligns well with your overall health goals, enhancing your body's ability to recover and perform."
+      "ranking": 6
     },
     {
       "name": "Cholesterol Particle Enhancement",
@@ -81,8 +80,7 @@
           "Status": "BELOW_REF_RANGE"
         }
       ],
-      "ranking": 10,
-      "lifestyle_context": "For you, Nik, incorporating cholesterol particle enhancement foods like fatty fish into your diet can significantly support your cardiovascular health, especially as you're already committing to 347 strength training sessions and averaging 6,764 steps daily. By focusing on these nutrient-rich options, you\u2019ll be working towards improving your LDL particle size and large HDL concentration while maintaining your active lifestyle. This simple dietary addition can complement your existing routine and further optimize your health."
+      "ranking": 10
     },
     {
       "name": "Avoid Kidney Stress & Processed Risk Foods",
@@ -120,8 +118,7 @@
           "Status": "ABOVE_REF_RANGE"
         }
       ],
-      "ranking": 999,
-      "lifestyle_context": "Nik, to support your kidney health and optimize your overall well-being, it's crucial to avoid processed foods and high-sodium options, especially given your active lifestyle with 347 strength training sessions and an average of 6,764 daily steps. By prioritizing whole, nutrient-dense foods, you can help lower urinary creatinine levels and enhance your cardiovascular health, aligning with your goal of maintaining a balanced and healthy lifestyle."
+      "ranking": 999
     }
   ],
   "total_interventions": 3

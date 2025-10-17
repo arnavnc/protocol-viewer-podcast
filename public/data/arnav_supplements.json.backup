@@ -1,0 +1,299 @@
+{
+  "protocol_type": "supplements",
+  "title": "Supplementation",
+  "interventions": [
+    {
+      "name": "Omega-3 fatty acids",
+      "number": 1,
+      "action": "START",
+      "scientific_rationale": "Your omega-3 index is significantly below the optimal range, and as a vegetarian, you are at increased risk for EPA and DHA deficiency. Supplementation with algal-derived omega-3s is strongly supported by clinical evidence to improve lipid profiles, including increasing HDL, reducing small dense LDL particles, and supporting cardiovascular health. Addressing this deficiency directly supports foundational metabolic health and preventive care.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "1"
+        },
+        {
+          "Field": "Description",
+          "Details": "Omega-3 fatty acids are essential fats, commonly found in fish and algae, that support heart, brain, and cellular health. Vegetarian sources like algal oil provide EPA and DHA, the most beneficial forms for the body."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Supports healthy lipid profile and cardiovascular prevention for vegetarians."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "SUPPLEMENT"
+        },
+        {
+          "Field": "Suggested Use",
+          "Value": "Omega-3 Fatty Acids (1000 mg EPA + DHA) \u2013 daily, algal oil"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "LDL Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Small",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Neutrophils",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "HDL Large",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Monocytes",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Leptin",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Triglycerides",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Apolipoprotein B (Apo B)",
+          "Status": "NORMAL"
+        }
+      ],
+      "ranking": 1
+    },
+    {
+      "name": "Vitamin D3 + K2",
+      "number": 2,
+      "action": "START",
+      "scientific_rationale": "Your vitamin D level is below the optimal range, which may impact bone health, immune function, and metabolic processes. Supplementing with vitamin D3 is well-supported by clinical trials for restoring healthy levels, particularly in vegetarians and individuals with limited sun exposure. Including vitamin K2 enhances the benefits by supporting proper calcium metabolism, promoting cardiovascular and skeletal health.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "2"
+        },
+        {
+          "Field": "Description",
+          "Details": "Vitamin D3 + K2 is a combination supplement that supports bone strength, immune function, and cardiovascular health. Vitamin D3 aids in calcium absorption, while vitamin K2 helps direct calcium to bones and away from arteries."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Supports optimal vitamin D levels for bone and immune health."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "SUPPLEMENT"
+        },
+        {
+          "Field": "Suggested Use",
+          "Value": "Vitamin D3 (4000 IU) + Vitamin K2 (200 mcg) \u2013 daily"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "Testosterone, Free",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Calcium",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Neutrophils",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Thyroid-Stimulating Hormone (TSH)",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Albumin (Microalbumin) - Urine",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Testosterone, Total",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Ferritin",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Red Cell Distribution Width (RDW)",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Homocysteine",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Eosinophils",
+          "Status": "OPTIMAL"
+        }
+      ],
+      "ranking": 2
+    },
+    {
+      "name": "Psyllium",
+      "number": 3,
+      "action": "START",
+      "scientific_rationale": "Your elevated LDL particle number and low HDL large particles indicate increased cardiovascular risk. Psyllium supplementation has been shown in multiple randomized controlled trials and meta-analyses to significantly lower LDL cholesterol and LDL particle number by binding bile acids in the gut, promoting their excretion, and thus reducing circulating cholesterol. As a vegetarian, you may particularly benefit from psyllium's soluble fiber, which supports foundational metabolic health and cardiovascular risk reduction.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "3"
+        },
+        {
+          "Field": "Description",
+          "Details": "Psyllium is a soluble fiber derived from the husks of Plantago ovata seeds. It helps support digestive health, regulate cholesterol levels, and promote healthy blood sugar balance."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Supports healthy cholesterol and cardiovascular risk reduction."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "SUPPLEMENT"
+        },
+        {
+          "Field": "Suggested Use",
+          "Value": "Psyllium (5\u201310 g) \u2013 daily"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "Apolipoprotein B (Apo B)",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "LDL Cholesterol",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Total Cholesterol",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "LDL Particle Number (LDL-P)",
+          "Status": "ABOVE_REF_RANGE"
+        }
+      ],
+      "ranking": 3
+    },
+    {
+      "name": "Vitamin B12",
+      "number": 4,
+      "action": "START",
+      "scientific_rationale": "As a vegetarian, your dietary intake of vitamin B12 is likely insufficient, increasing your risk for deficiency, which can adversely affect both neurological and hematological health. Supplementation is strongly supported by clinical guidelines and randomized controlled trials for vegetarians to maintain optimal methylation, red blood cell formation, and prevent long-term complications, even if current homocysteine levels are normal. Ensuring adequate B12 supports foundational cellular processes and helps address your elevated hematocrit and red blood cell count.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "4"
+        },
+        {
+          "Field": "Description",
+          "Details": "Vitamin B12 is an essential water-soluble vitamin that supports nerve function, red blood cell production, and DNA synthesis. It is commonly supplemented by individuals with low dietary intake, such as vegetarians."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Supports neurological health and optimal red blood cell function for vegetarians."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "SUPPLEMENT"
+        },
+        {
+          "Field": "Suggested Use",
+          "Value": "Vitamin B12 (up to 1000 mcg) \u2013 daily"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "Hemoglobin",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Red Blood Cell (RBC) Count",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Neutrophils",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Hematocrit",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Platelet Count",
+          "Status": "OPTIMAL"
+        },
+        {
+          "Biomarker": "Homocysteine",
+          "Status": "NORMAL"
+        }
+      ],
+      "ranking": 4
+    }
+  ],
+  "total_interventions": 4
+}

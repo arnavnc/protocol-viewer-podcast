@@ -28,6 +28,7 @@ type Intervention = {
   }>
   ranking: number
   personalized_note?: string
+  lifestyle_context?: string
 }
 
 type Protocol = {
@@ -111,26 +112,32 @@ const getAudioButtonText = (type: string) => {
   }
 }
 
-const users: User[] = [
-  {
-    id: "nik",
-    name: "Nik",
-    initials: "N",
-    description: "33-year-old male, active lifestyle"
-  },
-  {
-    id: "tyler", 
-    name: "Tyler",
-    initials: "T",
-    description: "Active male, comprehensive data"
-  },
-  {
-    id: "katie",
-    name: "Katie", 
-    initials: "K",
-    description: "40-year-old female, postpartum"
-  }
-]
+  const users: User[] = [
+    {
+      id: "nik",
+      name: "Nik",
+      initials: "N",
+      description: "33-year-old male, active lifestyle"
+    },
+    {
+      id: "tyler", 
+      name: "Tyler",
+      initials: "T",
+      description: "Active male, comprehensive data"
+    },
+    {
+      id: "katie",
+      name: "Katie", 
+      initials: "K",
+      description: "40-year-old female, postpartum"
+    },
+    {
+      id: "arnav",
+      name: "Arnav",
+      initials: "A",
+      description: "19-year-old male, vegetarian athlete"
+    }
+  ]
 
 export default function ProtocolViewer() {
   const [selectedUser, setSelectedUser] = useState<User>(users[0]) // Default to Nik
@@ -351,6 +358,16 @@ export default function ProtocolViewer() {
                 <h3 className="font-semibold">Personalized Note</h3>
                 <p className="text-sm text-muted-foreground leading-relaxed text-pretty">
                   {selectedIntervention.personalized_note}
+                </p>
+              </div>
+            )}
+
+            {/* Lifestyle Context */}
+            {selectedIntervention.lifestyle_context && (
+              <div className="space-y-3">
+                <h3 className="font-semibold">What This Means for Your Lifestyle</h3>
+                <p className="text-sm text-muted-foreground leading-relaxed text-pretty">
+                  {selectedIntervention.lifestyle_context}
                 </p>
               </div>
             )}

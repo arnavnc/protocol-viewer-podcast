@@ -65,8 +65,7 @@
           "Status": "NORMAL"
         }
       ],
-      "ranking": 1,
-      "lifestyle_context": "Continuing your Omega-3 fatty acids supplementation can further support your cardiovascular health, especially as you maintain high levels of strength training with 347 sessions logged. With your average of 6,764 daily steps, this supplement can help optimize your lipid profile and reduce inflammation, aligning well with your active lifestyle and overall health goals, Nik. Aim to keep your physical activity consistent while focusing on increasing your HDL large particle count for better heart health."
+      "ranking": 1
     },
     {
       "name": "Vitamin D3 + K2",
@@ -139,8 +138,7 @@
           "Status": "OPTIMAL"
         }
       ],
-      "ranking": 2,
-      "lifestyle_context": "Continuing with Vitamin D3 + K2 is a smart choice for you, Nik, as it supports your immune function and bone health, which are essential given your commitment to strength training and maintaining an active lifestyle with an average of 6,764 daily steps. This supplementation will help ensure that your body effectively metabolizes calcium, promoting overall vitality as you consistently log 347 traditional strength training sessions. Prioritize consistent intake of these supplements to further enhance your health and performance."
+      "ranking": 2
     },
     {
       "name": "Choline",
@@ -201,8 +199,7 @@
           "Status": "NORMAL"
         }
       ],
-      "ranking": 3,
-      "lifestyle_context": "Nik, incorporating choline supplements into your routine can enhance your liver function and lipid metabolism, aligning perfectly with your active lifestyle that includes 347 strength training sessions and an average of 6,764 daily steps. By optimizing these areas, you can further support your overall health goals, especially as you continue to prioritize physical activity and maintain stable sleep patterns averaging 7.3 hours."
+      "ranking": 3
     },
     {
       "name": "Vitamin B1",
@@ -243,8 +240,7 @@
           "Status": "OPTIMAL"
         }
       ],
-      "ranking": 4,
-      "lifestyle_context": "For you, Nik, incorporating Vitamin B1 into your supplement routine can enhance your energy production, especially given your high physical activity level with 347 strength training sessions. As you maintain an average of 6,764 daily steps, this added support can help optimize your carbohydrate metabolism, ultimately aiding in your overall fitness and recovery. Prioritizing this alongside your stable sleep pattern of 7.3 hours will further bolster your health goals."
+      "ranking": 4
     },
     {
       "name": "Diindolylmethane",
@@ -281,8 +277,7 @@
           "Status": "ABOVE_REF_RANGE"
         }
       ],
-      "ranking": 5,
-      "lifestyle_context": "Nik, incorporating diindolylmethane (DIM) into your routine can enhance your estrogen metabolism, helping to balance your slightly elevated estradiol levels. With an average of 7.3 hours of sleep and a robust strength training regimen comprising 347 sessions, this supplement aligns with your commitment to health and can optimize your overall well-being. To complement this, consider gradually increasing your daily steps, aiming for consistency above your current average of 6,764 steps."
+      "ranking": 5
     }
   ],
   "total_interventions": 5

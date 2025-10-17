@@ -89,8 +89,7 @@
           "Status": "ABOVE_REF_RANGE"
         }
       ],
-      "ranking": 2,
-      "lifestyle_context": "For you, Katie, incorporating a variety of uncategorized foods like beans, lentils, and fatty fish can significantly enhance your nutrient intake, supporting your energy levels and cardiovascular health. With your current average of 2,454 daily steps, focusing on these nutrient-dense options will help optimize your biomarker balance, particularly addressing your LDL cholesterol and progesterone levels. Prioritizing these foods can lead to long-term health improvements and better overall well-being as you work towards more active daily patterns."
+      "ranking": 2
     },
     {
       "name": "Urinary Health & Bacteria Reduction",
@@ -143,8 +142,7 @@
           "Status": "ABOVE_REF_RANGE"
         }
       ],
-      "ranking": 5,
-      "lifestyle_context": "For you, Katie, incorporating whole cranberries and bearberries into your diet can significantly enhance your urinary health by reducing the risk of infections. Additionally, adding hydration-rich fruits like oranges and peaches will support your immune defenses and overall well-being, complementing your current low activity levels. Prioritizing these nutritional choices can help you feel more energized and improve your health outcomes."
+      "ranking": 5
     },
     {
       "name": "Iron & Red Blood Cell Enhancement",
@@ -197,8 +195,7 @@
           "Status": "BELOW_REF_RANGE"
         }
       ],
-      "ranking": 6,
-      "lifestyle_context": "For Katie, incorporating heme iron sources like chicken thigh and salmon along with vitamin C-rich foods such as gold kiwifruit and guava will significantly support your iron levels and overall energy, especially given your current low activity levels averaging just 2,454 steps per day. This nutritional enhancement can help improve your vitality, making it easier to increase your daily activity and work towards a more active lifestyle. Prioritizing these foods not only aids in boosting your ferritin and MCHC levels but also aligns with your health optimization goals."
+      "ranking": 6
     },
     {
       "name": "Hormone & Energy Regulation",
@@ -247,8 +244,7 @@
           "Status": "ABOVE_REF_RANGE"
         }
       ],
-      "ranking": 6,
-      "lifestyle_context": "For you, Katie, incorporating hormone-regulating leafy greens like kale and cruciferous vegetables into your meals can significantly enhance your overall health, especially given your low average of 2,454 daily steps. This nutritional shift will not only support balanced progesterone levels but also promote better energy regulation, helping you to feel more energized and motivated to increase your physical activity. Prioritizing these foods can lay the foundation for a healthier lifestyle that aligns with your wellness goals."
+      "ranking": 6
     },
     {
       "name": "Cholesterol & Lipid Improvement",
@@ -309,8 +305,7 @@
           "Status": "ABOVE_REF_RANGE"
         }
       ],
-      "ranking": 10,
-      "lifestyle_context": "For you, Katie, incorporating cholesterol-lowering foods like oats, beans, chia seeds, and walnuts into your meals can significantly support your cardiovascular health, especially given your average daily steps of just 2,454. By enhancing your diet with these nutrient-dense options, you'll not only work towards improving your lipid levels but also complement any physical activity you engage in to promote overall well-being. Focus on making small, sustainable changes in your nutrition to help you feel your best."
+      "ranking": 10
     },
     {
       "name": "Avoid Cholesterol Raising & Inflammatory Foods",
@@ -375,8 +370,7 @@
           "Status": "ABOVE_REF_RANGE"
         }
       ],
-      "ranking": 999,
-      "lifestyle_context": "For you, Katie, avoiding cholesterol-raising and inflammatory foods is crucial for supporting your cardiovascular health, especially since your LDL cholesterol and particle concentration are above the reference range. Prioritizing whole foods over processed options and focusing on a balanced diet can enhance your overall well-being and help you maintain a healthier lifestyle, especially as you aim to increase your daily activity beyond your current average of 2,454 steps. Making these dietary changes will empower you to take control of your health and work towards better long-term outcomes."
+      "ranking": 999
     }
   ],
   "total_interventions": 6

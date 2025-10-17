@@ -1,0 +1,469 @@
+{
+  "protocol_type": "exercise",
+  "title": "Exercise & Recovery",
+  "interventions": [
+    {
+      "name": "Weight training",
+      "number": 1,
+      "action": "START",
+      "scientific_rationale": "Weight training improves lipid profiles by increasing HDL (especially large HDL particles) and reducing small, dense LDL and LDL particle number, which are linked to cardiovascular risk. It also enhances insulin sensitivity, helping regulate glucose and lower diabetes risk. For a 19-year-old male, regular resistance training supports optimal hormone balance, bone health, and muscle mass, all of which are crucial for preventive health and long-term metabolic resilience.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "1"
+        },
+        {
+          "Field": "Description",
+          "Details": "Weight training involves lifting weights or using resistance machines to challenge your muscles through repeated movements. This full-body approach targets major muscle groups\u2014including legs, back, chest, arms, and core\u2014by performing exercises like squats, presses, rows, and deadlifts."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts HDL, lowers LDL, and supports lifelong metabolic health."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "3 times per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "50 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "Moderate"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "Glucose",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "Testosterone, Free",
+          "Status": "NORMAL"
+        },
+        {
+          "Biomarker": "LDL Particle Number (LDL-P)",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Small",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "HDL Large",
+          "Status": "BELOW_REF_RANGE"
+        }
+      ],
+      "ranking": 1,
+      "frequency": "3 times per week",
+      "time": "50 minutes",
+      "tips": [],
+      "lifestyle_context": "For you, Arnav, starting weight training can significantly enhance your cardiovascular health by improving your lipid profile and boosting insulin sensitivity. Given your active lifestyle with nearly 10,000 daily steps, incorporating strength training will complement your current activity pattern and support your goal of reducing LDL particle numbers. Prioritizing weight training alongside improving your sleep quality will further optimize your overall health."
+    },
+    {
+      "name": "Running",
+      "number": 2,
+      "action": "CONTINUE",
+      "scientific_rationale": "Running at high intensity significantly improves cardiovascular biomarkers by increasing large HDL particles, reducing small LDL particles, and lowering LDL particle number, all of which decrease cardiovascular risk. It also helps regulate hematocrit, ferritin, and glucose, and supports optimal thyroid and hormone balance. For a healthy, active 19-year-old, running maximizes preventive health benefits, supports lifelong metabolic health, and leverages youthful recovery capacity for optimal adaptation.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "2"
+        },
+        {
+          "Field": "Description",
+          "Details": "Running is a dynamic aerobic exercise involving continuous, rhythmic movement of the legs and core to propel the body forward at a brisk pace. It primarily engages the lower body muscles, cardiovascular system, and core stabilizers, making it an efficient full-body workout."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts heart health and optimizes cholesterol for long-term prevention."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "3 times per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "40 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "High"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "LDL Particle Number (LDL-P)",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Small",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "HDL Large",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Hematocrit",
+          "Status": "ABOVE_REF_RANGE"
+        }
+      ],
+      "ranking": 2,
+      "frequency": "3 times per week",
+      "time": "40 minutes",
+      "tips": [],
+      "lifestyle_context": "Arnav, continuing with your running routine is crucial, as it will significantly enhance your cardiovascular health by improving key biomarkers like HDL and LDL particle sizes. Given your active lifestyle, with an impressive average of 9,992 daily steps, incorporating high-intensity running can further optimize your fitness and support your overall health goals. Additionally, focusing on improving your sleep quality will complement your exercise efforts and maximize your recovery and performance."
+    },
+    {
+      "name": "Track Intervals",
+      "number": 3,
+      "action": "START",
+      "scientific_rationale": "Track intervals, as a form of high-intensity aerobic exercise, significantly improve lipid profiles by increasing large HDL particles and reducing small, atherogenic LDL particles and LDL-P. They also lower hematocrit, ferritin, and homocysteine, while enhancing glucose control and kidney function. For a healthy, active 19-year-old, these workouts maximize cardiovascular protection, metabolic health, and long-term disease prevention during a critical period for establishing lifelong habits.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "3"
+        },
+        {
+          "Field": "Description",
+          "Details": "Track intervals are high-intensity running workouts performed on a track, alternating between fast sprints and recovery periods. This exercise primarily targets the legs and core, challenging cardiovascular endurance and speed while building lower body strength."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts heart health and optimizes cholesterol for long-term prevention."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "1 time per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "25 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "High"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "LDL Small",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Particle Number (LDL-P)",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "HDL Large",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Hematocrit",
+          "Status": "ABOVE_REF_RANGE"
+        }
+      ],
+      "ranking": 3,
+      "frequency": "1 time per week",
+      "time": "25 minutes",
+      "tips": [],
+      "lifestyle_context": "Arnav, incorporating track intervals into your routine can enhance your already active lifestyle, where you average nearly 10,000 steps daily and engage in various activities. This high-intensity exercise will not only improve your lipid profile and glucose control but also support your overall health goals, particularly in reducing LDL particle numbers and increasing beneficial HDL levels. Prioritizing this exercise can complement your current efforts, especially as you work on improving your sleep quality for optimal recovery."
+    },
+    {
+      "name": "Basketball",
+      "number": 4,
+      "action": "CONTINUE",
+      "scientific_rationale": "Regular basketball significantly improves cardiovascular fitness and lipid metabolism, which helps raise HDL large particles and lower LDL small particles and LDL-P, reducing cardiovascular risk. The sport\u2019s high-intensity intervals enhance insulin sensitivity and glucose uptake, supporting optimal glucose and ketone levels. For a 19-year-old, basketball is ideal for building lifelong heart health, supporting healthy hormone balance, and maintaining optimal hematologic and iron markers, all while promoting social engagement and motivation.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "4"
+        },
+        {
+          "Field": "Description",
+          "Details": "Basketball is a dynamic, high-intensity team sport that combines running, jumping, quick lateral movements, and upper-body coordination. It engages the full body, challenging cardiovascular endurance, muscular strength, agility, and coordination through continuous play and frequent bursts of speed."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts HDL, lowers LDL, and improves cardiovascular health."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "2 times per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "50 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "High"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "LDL Particle Number (LDL-P)",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Small",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "HDL Large",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Vitamin D",
+          "Status": "BELOW_REF_RANGE"
+        }
+      ],
+      "ranking": 4,
+      "frequency": "2 times per week",
+      "time": "50 minutes",
+      "tips": [],
+      "lifestyle_context": "Continuing with basketball is a great choice, Arnav, as it aligns well with your active lifestyle, where you average nearly 10,000 steps daily and engage in physical activities. This high-intensity exercise will further enhance your cardiovascular fitness and improve your lipid profile, helping to lower your LDL levels while raising HDL large particles. Additionally, consider prioritizing your sleep, as improving your rest will complement your efforts in maintaining optimal health and performance."
+    },
+    {
+      "name": "Swimming",
+      "number": 5,
+      "action": "START",
+      "scientific_rationale": "Swimming, as a moderate-intensity aerobic exercise, increases large HDL particles, reduces small LDL particles and LDL-P, and improves lipid particle size, directly benefiting cholesterol biomarkers. It also helps lower hematocrit, ferritin, and homocysteine, while supporting healthy glucose, uric acid, and kidney function. For a healthy 19-year-old, swimming offers a joint-friendly, comprehensive cardiovascular workout that complements existing activities and supports long-term preventive health.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "5"
+        },
+        {
+          "Field": "Description",
+          "Details": "Swimming is a full-body aerobic exercise performed in water, engaging the arms, shoulders, back, core, and legs through rhythmic movements such as freestyle, breaststroke, or backstroke. It combines cardiovascular conditioning with muscular endurance, making it a low-impact yet highly effective workout."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts heart health and improves cholesterol profile with full-body training."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "1 time per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "35 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "Moderate"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "LDL Small",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Particle Number (LDL-P)",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "HDL Large",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Hematocrit",
+          "Status": "ABOVE_REF_RANGE"
+        }
+      ],
+      "ranking": 5,
+      "frequency": "1 time per week",
+      "time": "35 minutes",
+      "tips": [],
+      "lifestyle_context": "Arnav, incorporating swimming into your routine can enhance your already active lifestyle, where you average nearly 10,000 steps daily. This moderate-intensity exercise will not only help improve your cholesterol levels by increasing large HDL particles and reducing small LDL particles, but it will also support better glucose management, benefiting your overall health. Prioritizing swimming will also give you a fun way to balance your exercise regimen while addressing your lipid biomarkers."
+    },
+    {
+      "name": "Rowing",
+      "number": 6,
+      "action": "START",
+      "scientific_rationale": "Rowing at moderate intensity improves key cardiovascular biomarkers by increasing large HDL particles, reducing small LDL particles and LDL-P, and enhancing LDL size, all of which lower cardiovascular risk. It also helps decrease hematocrit, ferritin, and homocysteine, while supporting healthy glucose, uric acid, and thyroid function. For a healthy, active 19-year-old, rowing offers a safe, joint-friendly way to optimize lipid profile, support kidney and liver health, and build lifelong aerobic fitness.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "6"
+        },
+        {
+          "Field": "Description",
+          "Details": "Rowing is a full-body aerobic exercise performed on a rowing machine or in a boat, combining coordinated leg drive, core engagement, and upper body pulling. It targets the legs, core, arms, shoulders, and back, delivering both cardiovascular and muscular benefits through rhythmic, low-impact motion."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Boosts heart health and improves cholesterol profile with full-body training."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "EXERCISE"
+        },
+        {
+          "Field": "Frequency",
+          "Value": "1 time per week"
+        },
+        {
+          "Field": "Time",
+          "Value": "35 minutes"
+        },
+        {
+          "Field": "Intensity",
+          "Value": "Moderate"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "LDL Particle Number (LDL-P)",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Small",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "HDL Large",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Hematocrit",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Homocysteine",
+          "Status": "NORMAL"
+        }
+      ],
+      "ranking": 6,
+      "frequency": "1 time per week",
+      "time": "35 minutes",
+      "tips": [],
+      "lifestyle_context": "Arnav, incorporating rowing into your routine will complement your already active lifestyle, as you average nearly 10,000 steps daily and engage in a variety of activities. This moderate-intensity exercise can significantly enhance your cardiovascular health by optimizing key biomarkers, while also helping to address your insufficient sleep quality. Aim for 2-3 rowing sessions per week to effectively support your health goals and promote overall well-being."
+    }
+  ],
+  "total_interventions": 6
+}

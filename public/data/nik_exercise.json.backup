@@ -64,8 +64,7 @@
         }
       ],
       "ranking": 1,
-      "tips": [],
-      "lifestyle_context": "Nik, incorporating more strength training into your routine can significantly enhance your health by improving key biomarkers, particularly given your current focus with 347 sessions of traditional strength training. By maintaining this momentum and aiming to further engage in resistance exercise, you can promote better lipid profiles and hormonal balance while supporting your overall fitness goals. Additionally, ensuring you maintain your average of 7.3 hours of sleep will further optimize recovery and muscle growth."
+      "tips": []
     },
     {
       "name": "Assault Bike Sprints",
@@ -129,8 +128,7 @@
         }
       ],
       "ranking": 2,
-      "tips": [],
-      "lifestyle_context": "Nik, incorporating Assault Bike Sprints into your routine can enhance your cardiovascular health, potentially improving your HDL and LDL particle sizes, which is particularly beneficial given your current HDL levels. With an average of 6,764 daily steps and a solid foundation of strength training, adding these high-intensity sprints will complement your existing activities and help you achieve a more balanced fitness regimen. Aim for 2-3 sessions per week to maximize your health outcomes while keeping your weekly activity diverse and engaging."
+      "tips": []
     },
     {
       "name": "Cycling",
@@ -194,8 +192,7 @@
         }
       ],
       "ranking": 3,
-      "tips": [],
-      "lifestyle_context": "Nik, incorporating cycling into your routine can enhance your cardiovascular health and improve key biomarkers like LDL size and HDL large particles, which are currently below optimal levels. Given your active lifestyle with 424 recorded activities predominantly focused on strength training, adding cycling sessions could diversify your workouts and increase your daily movement, complementing your average of 6,764 steps. Aim for 2-3 cycling sessions a week to support your overall health goals and achieve better metabolic balance."
+      "tips": []
     },
     {
       "name": "HIIT (High Intensity Interval Training)",
@@ -255,8 +252,7 @@
         }
       ],
       "ranking": 4,
-      "tips": [],
-      "lifestyle_context": "Nik, integrating HIIT into your routine can enhance your cardiovascular efficiency and improve your LDL and HDL levels, which are currently below your optimal range. With your strong background in traditional strength training, adding just a couple of HIIT sessions each week can elevate your free testosterone and hormone balance, while also boosting your average daily steps from 6,764 to a more active level. This shift will not only support your health goals but also keep your workouts exciting and challenging."
+      "tips": []
     },
     {
       "name": "Trail Running",
@@ -320,8 +316,7 @@
         }
       ],
       "ranking": 5,
-      "tips": [],
-      "lifestyle_context": "Nik, incorporating trail running into your routine can significantly enhance your cardiovascular health and improve your HDL and LDL particle sizes, which are currently below optimal levels. With an average of 6,764 daily steps and a solid base in traditional strength training, adding this high-intensity aerobic activity will diversify your exercise regimen and may also support your kidney and liver health. Aim to integrate 1-2 trail running sessions each week to boost your overall fitness and health biomarkers effectively."
+      "tips": []
     }
   ],
   "total_interventions": 5

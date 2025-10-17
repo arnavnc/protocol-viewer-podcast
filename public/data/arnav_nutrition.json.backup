@@ -1,0 +1,414 @@
+{
+  "protocol_type": "nutrition",
+  "title": "Nutrition",
+  "interventions": [
+    {
+      "name": "Uncategorized Foods",
+      "number": 1,
+      "action": "START",
+      "scientific_rationale": "Olive oil and avocado are rich in monounsaturated fats, which help raise HDL (good) cholesterol and reduce small, dense LDL particles, supporting better heart and cholesterol profiles. Soybeans and edamame provide plant-based protein and isoflavones, which can help lower LDL particle number and improve blood lipid balance. Broccoli offers fiber and antioxidants that support healthy blood vessels and may help regulate hematocrit and ferritin levels. Apples supply soluble fiber (pectin) that binds cholesterol in the gut, while also providing polyphenols that support vascular health. Together, these foods offer a spectrum of nutrients that address your lipid profile, blood markers, and overall preventive health.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "1"
+        },
+        {
+          "Field": "Description",
+          "Details": "Add olive oil to salads or cooked vegetables, enjoy avocado on whole grain toast or in smoothies, and include soybeans or edamame in stir-fries or grain bowls. Snack on apples or pair them with nut butter, and add broccoli to lunch or dinner for extra fiber and nutrients. Aim to include at least one of these foods at each meal for balanced support."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Nutrients here support heart, blood, and cholesterol health for prevention."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "NUTRITION"
+        },
+        {
+          "Field": "Foods to Include",
+          "Value": "Olive oil, Avocado, Soybeans, Edamame, Broccoli, Apples"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "Large HDL Particle Concentration",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Particle Size",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Small LDL Particle Concentration",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Particle Concentration",
+          "Status": "ABOVE_REF_RANGE"
+        }
+      ],
+      "ranking": 1
+    },
+    {
+      "name": "Omega-3 & Ketone Level Management",
+      "number": 2,
+      "action": "START",
+      "scientific_rationale": "Carrots and peas are rich in antioxidants, fiber, and complex carbohydrates, which help provide steady energy and prevent excessive ketone production by ensuring adequate glucose availability. Grapes offer natural sugars and polyphenols that support metabolic health and help reduce oxidative stress, which is important for cardiovascular and brain function. Brown rice is a whole grain that supplies slow-digesting carbohydrates, supporting stable blood sugar and minimizing ketone formation, while also providing B vitamins and minerals that contribute to red blood cell health. Although salmon is a top source of omega-3s and vitamin D, as a vegetarian, you can focus on plant-based sources and consider fortified foods or supplements to help raise your omega-3 and vitamin D levels, which are linked to improved lipid profiles and reduced inflammation.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "5"
+        },
+        {
+          "Field": "Description",
+          "Details": "Aim to include a variety of colorful vegetables and whole grains in your meals each day, such as carrots and peas in stir-fries or salads, grapes as a snack, and brown rice as a base for lunch or dinner. These foods provide essential nutrients and carbohydrates to help maintain healthy omega-3 and ketone levels, especially important for active vegetarians. Try to rotate these foods throughout the week to keep your meals balanced and interesting."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Supports brain and heart health while balancing your metabolism."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "NUTRITION"
+        },
+        {
+          "Field": "Foods to Include",
+          "Value": "Carrots, Peas, Brown rice, Grapes, Salmon"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "Omega 3: EPA+DPA+DHA",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Urinary Ketones",
+          "Status": "ABNORMAL"
+        }
+      ],
+      "ranking": 5
+    },
+    {
+      "name": "Hormone & Red Blood Cell Regulation",
+      "number": 3,
+      "action": "START",
+      "scientific_rationale": "Soy-based foods like tempeh and tofu are rich in isoflavones, which can help modulate estradiol (estrogen) levels and support healthy hormone balance. Black beans, spinach, and kale provide plant-based iron and folate, nutrients essential for red blood cell production and maintaining healthy hematocrit and RBC counts. Almonds offer vitamin E and healthy fats, supporting cell membrane health and potentially improving cholesterol profiles. Together, these foods deliver fiber and antioxidants that may lower LDL particle number and size, while supporting overall cardiovascular and hormonal health.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "5"
+        },
+        {
+          "Field": "Description",
+          "Details": "Aim to include at least one of these foods in each meal: add tofu or tempeh to stir-fries or grain bowls, toss black beans into salads or wraps, and use spinach or kale in smoothies, omelets, or as a base for salads. Snack on a handful of almonds or sprinkle them over breakfast cereals. Rotate these foods daily to keep meals interesting and maximize their benefits."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Supports hormone balance and healthy blood for lasting energy and wellness."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "NUTRITION"
+        },
+        {
+          "Field": "Foods to Include",
+          "Value": "Tofu, Tempeh, Spinach, Kale, Black beans, Almonds"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "Estradiol",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Hematocrit",
+          "Status": "ABOVE_REF_RANGE"
+        }
+      ],
+      "ranking": 5
+    },
+    {
+      "name": "Vitamin D & Iron Enhancement",
+      "number": 4,
+      "action": "START",
+      "scientific_rationale": "UV-exposed portobello and maitake mushrooms are among the few vegetarian sources of vitamin D2, which helps raise your blood vitamin D levels and supports bone and immune health. Lentils provide non-heme iron, which is essential for maintaining ferritin and healthy red blood cell counts, but is less easily absorbed than animal-based (heme) iron. Consuming vitamin C-rich fruits like gold kiwifruit and oranges alongside lentils enhances iron absorption by converting iron to a more absorbable form. This combination is especially important for vegetarians, as it helps address low ferritin and vitamin D levels, supporting energy, immunity, and bone strength.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "6"
+        },
+        {
+          "Field": "Description",
+          "Details": "Aim to include UV-exposed mushrooms in 2-3 meals per week, such as adding saut\u00e9ed portobello or maitake mushrooms to stir-fries, omelets, or grain bowls. Pair lentils with vitamin C-rich fruits like gold kiwifruit or oranges at lunch or dinner to boost iron absorption. Rotate these foods into your snacks and main meals to help maintain healthy vitamin D and iron levels."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Supports bone strength, energy, and immune health for active lifestyles."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "NUTRITION"
+        },
+        {
+          "Field": "Foods to Include",
+          "Value": "UV-exposed portobello mushrooms, UV-exposed maitake mushrooms, Lentils, Gold kiwifruit, Oranges"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "Vitamin D",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Ferritin",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Hematocrit",
+          "Status": "ABOVE_REF_RANGE"
+        }
+      ],
+      "ranking": 6
+    },
+    {
+      "name": "Kidney & Immune Function Support",
+      "number": 5,
+      "action": "START",
+      "scientific_rationale": "Fresh tomatoes and bell peppers are rich in antioxidants like vitamin C and lycopene, which help reduce inflammation and oxidative stress, supporting both kidney and immune function. Cucumbers provide hydration and potassium, which can help regulate blood pressure and reduce kidney workload. Apples offer soluble fiber and polyphenols that lower inflammation and may help decrease protein loss in urine. Together, these foods support healthy kidney filtration, reduce immune activation (including ANA levels), and help maintain balanced cholesterol and blood markers.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "9"
+        },
+        {
+          "Field": "Description",
+          "Details": "Aim to include fresh tomatoes, bell peppers, cucumbers, and apples in your meals daily. Add sliced tomatoes and cucumbers to salads or sandwiches, snack on bell pepper strips, and enjoy apples as an easy on-the-go fruit. Rotate these foods throughout the week to keep meals interesting and maximize their protective benefits."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Lower inflammation to protect kidney and immune system health."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "NUTRITION"
+        },
+        {
+          "Field": "Foods to Include",
+          "Value": "Fresh tomatoes, Fresh bell peppers, Fresh cucumbers, Fresh apples"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "Antinuclear Antibody Screen",
+          "Status": "ABNORMAL"
+        },
+        {
+          "Biomarker": "Urinary Protein",
+          "Status": "ABNORMAL"
+        }
+      ],
+      "ranking": 9
+    },
+    {
+      "name": "Cholesterol Profile Improvement",
+      "number": 6,
+      "action": "START",
+      "scientific_rationale": "Soluble fibers from oats, barley, psyllium husk, and lentils bind cholesterol in your gut, helping lower LDL particle number and reduce small dense LDL particles. Nuts and seeds such as walnuts, almonds, and flaxseeds provide healthy fats and plant sterols that raise large HDL particles and improve LDL size. Extra virgin olive oil is rich in monounsaturated fats, which support higher HDL and lower LDL cholesterol. Together, these foods deliver a combination of fiber, healthy fats, and plant compounds that work synergistically to improve your cholesterol profile and reduce cardiovascular risk.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "10"
+        },
+        {
+          "Field": "Description",
+          "Details": "Aim to include at least one cholesterol-friendly food at each meal. Start your day with oatmeal or a fiber-rich smoothie using flaxseeds or psyllium husk. Add nuts and seeds like walnuts, almonds, or sunflower seeds as snacks or salad toppers, and use extra virgin olive oil as your main cooking or dressing fat. Rotate in lentils, chickpeas, barley, and quinoa for lunches and dinners to boost fiber and plant protein several times a week."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Improves cholesterol balance to protect your heart and blood vessels."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "NUTRITION"
+        },
+        {
+          "Field": "Foods to Include",
+          "Value": "Psyllium husk, Beta-glucan rich oatmeal, Oats, Barley, Lentils, Chickpeas, Flaxseeds, Walnuts, Toasted almonds, Hazelnuts, Pistachios, Sunflower seeds, Extra virgin olive oil, Quinoa, Quinoa salad mix, Fiber-packed lentil stew"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "LDL Particle Concentration",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Small LDL Particles",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Large HDL Particle Concentration",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "LDL Particle Size",
+          "Status": "BELOW_REF_RANGE"
+        }
+      ],
+      "ranking": 10
+    },
+    {
+      "name": "Avoid Heart Risk & Inflammation Foods",
+      "number": 7,
+      "action": "AVOID",
+      "scientific_rationale": "Foods like butter, fatty beef, processed meats, and palm oil are high in saturated fats, which increase LDL particle number and promote small, dense LDL particles\u2014both linked to higher cardiovascular risk. Added sugars from soda, candy, and pastries raise inflammation and lower protective HDL cholesterol, while processed snacks and fried foods contribute trans fats and oxidized oils that further harm blood vessels and liver function. Regular consumption of these foods can worsen lipid profiles, elevate inflammation markers, and stress the kidneys and liver, increasing your risk for heart disease and metabolic issues. By avoiding these foods, you help maintain healthier cholesterol levels, reduce inflammation, and protect your organs.",
+      "details": [
+        {
+          "Field": "-------",
+          "Details": "------"
+        },
+        {
+          "Field": "Ranking",
+          "Details": "999"
+        },
+        {
+          "Field": "Description",
+          "Details": "Focus on reducing or eliminating foods high in saturated fat, added sugars, and processed ingredients from your daily meals. Replace fried foods, processed snacks, and sugary drinks with whole, plant-based options and water. Make gradual swaps, such as choosing olive oil over butter and snacking on fruit instead of pastries, to support your heart and overall health."
+        },
+        {
+          "Field": "Benefit Summary",
+          "Details": "Limiting these foods protects your heart and lowers inflammation risk."
+        }
+      ],
+      "parameters": [
+        {
+          "Field": "-------",
+          "Value": "-------"
+        },
+        {
+          "Field": "Type",
+          "Value": "NUTRITION"
+        },
+        {
+          "Field": "Foods to Avoid",
+          "Value": "Processed meats (e.g., bacon, sausage, hot dogs), Fatty beef, Fatty lamb cuts, Ribeye steak, Beef tallow, Butter, Palm oil, Margarine sticks, Shortening, Safflower oil, Sunflower oil, Soybean oil, Corn oil, Canola oil, Cream, Cheddar cheese, Whole milk, Yogurt, Table sugar, Honey, Soda, Energy drinks, Sweetened iced tea, Sports drinks, Candy, Pastries, Donuts, Cakes, Cookies, Packaged baked goods, Frozen pizza, Hot pockets, Instant noodles, French fries, Potato chips, Cheese puffs, Pretzels, Fried mozzarella sticks, Onion rings, Fast food burgers, Fried chicken, Refined pasta, Sugary cereals, Cornflakes, White bread, White rice"
+        }
+      ],
+      "target_biomarkers": [
+        {
+          "Biomarker": "-----------",
+          "Status": "--------"
+        },
+        {
+          "Biomarker": "Urinary Ketones",
+          "Status": "ABNORMAL"
+        },
+        {
+          "Biomarker": "LDL Particle Concentration",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Omega 3: EPA+DPA+DHA",
+          "Status": "BELOW_REF_RANGE"
+        },
+        {
+          "Biomarker": "Urinary Protein",
+          "Status": "ABNORMAL"
+        },
+        {
+          "Biomarker": "Small LDL Particle Concentration",
+          "Status": "ABOVE_REF_RANGE"
+        },
+        {
+          "Biomarker": "Ferritin",
+          "Status": "BELOW_REF_RANGE"
+        }
+      ],
+      "ranking": 999
+    }
+  ],
+  "total_interventions": 7
+}
